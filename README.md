@@ -16,7 +16,7 @@ Read this before reusing anything.
 
 | files | licence | why |
 |---|---|---|
-| `packzup-climate-2026.*` | **CC BY 4.0** | derived from ERA5 via Open-Meteo (CC BY 4.0) |
+| `packzup-climate-2026.*` | **CC BY 4.0** | WMO 1991-2020 normals / ERA5 via Open-Meteo (CC BY 4.0) |
 | `packzup-carry-on-limits-2026-09.csv` | **CC BY 4.0** | compiled by Packzup from airline-published policies |
 | `packzup-connectivity-2026.*` | **CC BY-SA 4.0** | derived from Wikipedia, which is **share-alike** |
 
@@ -45,17 +45,17 @@ treat this repository as uniformly CC BY.
 | `rain_days` | average days with rain in the month |
 
 **Limitations — read before citing**
-- **Modelled reanalysis averages, not weather-station observations.** ERA5 is a gridded
-  reanalysis product; values represent a model grid cell, not a specific site.
+- **Two source types, mixed and not distinguished per row.** WMO 1991-2020 climate normals
+  where available, otherwise ERA5 reanalysis 2019-2023, both via Open-Meteo.
 - **Granularity is mixed.** The 95 entries are countries (Albania, Japan), cities (Amsterdam,
   Tokyo) *and* regions (Patagonia, Dolomites). 23 ISO codes appear more than once. This is not a
   country-level table.
-- **No averaging period is published.** If the window matters to you, consult Open-Meteo's ERA5
-  documentation rather than assuming one.
+- **Averaging period differs by source**: 1991-2020 for the WMO normals, 2019-2023 for the
+  ERA5 fallback. The file does not state which source supplied a given row.
 - `rain_days` has **no published mm/day threshold definition**.
 
-**Attribution required:** *Climate data: ERA5 reanalysis via Open-Meteo (CC BY 4.0). Compiled by
-Packzup.*
+**Attribution required:** *Climate data: WMO 1991-2020 climate normals where available,
+otherwise ERA5 reanalysis, via Open-Meteo (CC BY 4.0). Compiled by Packzup.*
 
 ---
 
@@ -141,7 +141,7 @@ byte.
 
 | dataset | derived from |
 |---|---|
-| climate | [Open-Meteo](https://open-meteo.com/) (ERA5 reanalysis) |
+| climate | [Open-Meteo](https://open-meteo.com/) - WMO 1991-2020 normals, ERA5 2019-2023 fallback |
 | connectivity | [Wikipedia — Mains electricity by country](https://en.wikipedia.org/wiki/Mains_electricity_by_country) |
 | carry-on | airlines' own published cabin-baggage policies |
 
