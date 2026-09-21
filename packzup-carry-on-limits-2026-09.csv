@@ -1,0 +1,107 @@
+airline,country,free_personal_item_cm,free_personal_item_kg,cabin_bag_cm,cabin_bag_kg,cabin_bag_free_on_cheapest_fare,source_url,verification,last_verified,notes
+American Airlines,USA,,,56x36x23,,,,carried_forward,2026-06,
+Delta Air Lines,USA,,,56x35x23,,,,carried_forward,2026-06,
+United Airlines,USA,,,56x35x22,,,,carried_forward,2026-06,
+Southwest Airlines,USA,,,61x41x27,,,,carried_forward,2026-06,
+Alaska Airlines,USA,,,56x35x22,,,,carried_forward,2026-06,
+JetBlue,USA,,,56x40x25,,,,carried_forward,2026-06,
+Frontier Airlines,USA,45x35x20,,61x41x25,16,no,https://faq.flyfrontier.com/help/bags-seats-general-info-what-are-the-sizes-and-weight-limits-for-bags,primary_verified,2026-09-01,Carry-on paid; width corrected from 46 to 41
+Allegiant Air,USA,45x35x20,,56x41x25,18,no,https://www.allegiantair.com/popup/baggage-fees,primary_verified,2026-09-01,Carry-on paid; width corrected from 46 to 41
+Hawaiian Airlines,USA,,,56x35x23,11.5,,,carried_forward,2026-06,
+Air Canada,Canada,,,55x40x23,10,,,carried_forward,2026-06,
+WestJet,Canada,,,53x40x23,10,,,carried_forward,2026-06,
+Porter Airlines,Canada,,,55x40x23,9,,,carried_forward,2026-06,
+British Airways,UK,,,56x45x25,23,,,carried_forward,2026-06,
+Virgin Atlantic,UK,,,56x36x23,10,,,carried_forward,2026-06,
+easyJet,UK (low-cost),45x36x20,15,56x45x25,15,no,https://www.easyjet.com/en/help/baggage/cabin-bag-and-hold-luggage,primary_verified,2026-09-01,Large cabin bag is paid
+Aer Lingus,Ireland,,,55x40x24,10,,,carried_forward,2026-06,
+Ryanair,Ireland (low-cost),40x20x25,,55x40x20,10,no,https://www.ryanair.com/gb/en/plan-trip/flying-with-us/baggage-policy,primary_verified,2026-09-01,Free small bag only; 55x40x20 requires Priority
+Air France,France,,,55x35x25,12,,,carried_forward,2026-06,
+Lufthansa,Germany,,,55x40x23,8,,,carried_forward,2026-06,
+KLM,Netherlands,,,55x35x25,12,,,carried_forward,2026-06,
+Iberia,Spain,,,56x40x25,10,,,carried_forward,2026-06,
+Swiss,Switzerland,,,55x40x23,8,,,carried_forward,2026-06,
+Austrian,Austria,,,55x40x23,8,,,carried_forward,2026-06,
+SAS,Scandinavia,,,55x40x23,8,,,carried_forward,2026-06,
+ITA Airways,Italy,,,55x35x25,8,,,carried_forward,2026-06,
+Turkish Airlines,Turkey,,,55x40x23,8,,,carried_forward,2026-06,
+Aegean,Greece,,,56x45x25,8,,,carried_forward,2026-06,
+TAP Air Portugal,Portugal,,,55x40x20,8,,,carried_forward,2026-06,
+Finnair,Finland,,,55x40x23,8,,,carried_forward,2026-06,
+LOT Polish,Poland,,,55x40x23,8,,,carried_forward,2026-06,
+Air Serbia,Serbia,,,55x40x20,8,,,carried_forward,2026-06,
+Aeroflot,Russia,,,55x40x20,10,,,carried_forward,2026-06,
+Brussels Airlines,Belgium,,,55x40x23,8,,,carried_forward,2026-06,
+Air Baltic,Latvia,40x30x15,,55x40x23,8,no,https://www.airbaltic.com/en/baggage/cabin-baggage,primary_verified,2026-09-01,Economy MINI = personal item only
+Wizz Air,Hungary (low-cost),40x30x20,10,55x40x23,10,no,https://wizzair.com/en-gb/help-centre/booking-information-and-services/baggage/baggage-allowance/cabin-baggage,primary_verified,2026-09-01,Large bag requires WIZZ Priority
+Vueling,Spain (low-cost),35x20x20,,55x40x20,10,no,https://www.vueling.com/en/vueling-services/prepare-your-trip/luggage,primary_verified,2026-09-01,Overhead bag from Optima fare
+Norwegian,Norway (low-cost),40x30x20,10,55x40x23,10,no,https://www.norwegian.com/uk/travel-info/baggage/hand-baggage/,primary_verified,2026-09-01,Cabin bag from LowFare+
+Eurowings,Germany (low-cost),40x30x25,,55x40x23,8,no,https://www.eurowings.com/en/information/baggage.html,primary_verified,2026-09-01,BASIC fare excludes cabin bag
+Pegasus,Turkey (low-cost),40x30x15,3,55x40x23,8,no,https://www.flypgs.com/en/travel-glossary/cabin-baggage,primary_verified,2026-09-01,Policy changed 14 Feb 2026; cabin bag from Saver
+Transavia,Netherlands (low-cost),40x30x20,,55x40x25,10,no,https://www.transavia.com/handluggage,primary_verified,2026-09-01,Large bag on Smart/Max only
+Emirates,UAE,,,55x38x20,7,,,carried_forward,2026-06,
+Etihad,UAE,,,56x40x25,7,,,carried_forward,2026-06,
+Qatar Airways,Qatar,,,50x37x25,7,,,carried_forward,2026-06,
+Saudia,Saudi Arabia,,,56x45x25,7,,,carried_forward,2026-06,
+Royal Jordanian,Jordan,,,56x45x25,7,,,carried_forward,2026-06,
+Gulf Air,Bahrain,,,56x45x25,7,,,carried_forward,2026-06,
+Oman Air,Oman,,,56x36x23,7,,,carried_forward,2026-06,
+Kuwait Airways,Kuwait,,,56x40x25,7,,,carried_forward,2026-06,
+flydubai,UAE (low-cost),,,55x38x20,7,,,carried_forward,2026-06,
+Air Arabia,UAE (low-cost),,,55x40x20,10,,,carried_forward,2026-06,
+EgyptAir,Egypt,,,55x40x25,8,,,carried_forward,2026-06,
+El Al,Israel,,,56x40x25,8,,,carried_forward,2026-06,
+Singapore Airlines,Singapore,,,55x38x23,7,,,carried_forward,2026-06,
+Cathay Pacific,Hong Kong,,,56x36x23,7,,,carried_forward,2026-06,
+Japan Airlines (JAL),Japan,,,55x40x25,10,,,carried_forward,2026-06,
+ANA,Japan,,,55x40x25,10,,,carried_forward,2026-06,
+Korean Air,South Korea,,,55x40x20,10,,,carried_forward,2026-06,
+Asiana,South Korea,,,55x40x20,10,,,carried_forward,2026-06,
+China Airlines,Taiwan,,,56x36x23,7,,,carried_forward,2026-06,
+EVA Air,Taiwan,,,56x36x23,7,,,carried_forward,2026-06,
+Air China,China,,,55x40x20,5,,,carried_forward,2026-06,
+China Southern,China,,,55x40x20,5,,,carried_forward,2026-06,
+China Eastern,China,,,55x40x20,5,,,carried_forward,2026-06,
+Hainan Airlines,China,,,55x40x20,5,,,carried_forward,2026-06,
+Hong Kong Airlines,Hong Kong,,,56x36x23,7,,,carried_forward,2026-06,
+Thai Airways,Thailand,,,56x45x25,7,,,carried_forward,2026-06,
+Bangkok Airways,Thailand,,,56x45x25,7,,,carried_forward,2026-06,
+Vietnam Airlines,Vietnam,,,56x36x23,7,,,carried_forward,2026-06,
+VietJet,Vietnam (low-cost),,,56x36x23,7,,,carried_forward,2026-06,
+Garuda Indonesia,Indonesia,,,56x36x23,7,,,carried_forward,2026-06,
+Lion Air,Indonesia (low-cost),,,56x36x23,7,,,carried_forward,2026-06,
+Philippine Airlines,Philippines,,,56x36x23,7,,,carried_forward,2026-06,
+Cebu Pacific,Philippines (low-cost),35x20x20,,56x36x23,7,yes,https://www.cebupacificair.com/en-PH/pages/travel-info/baggage-information,primary_verified,2026-09-01,Personal item not weighed
+Malaysia Airlines,Malaysia,,,56x36x23,7,,,carried_forward,2026-06,
+AirAsia,Malaysia (low-cost),40x30x10,,56x36x23,7,yes,https://www.airasia.com/en/gb,primary_verified,2026-09-01,7kg combined cabin + personal
+Scoot,Singapore (low-cost),,,54x38x23,10,yes,https://www.flyscoot.com/en/plan/booking-your-flight/baggage,primary_verified,2026-09-01,10kg cabin allowance included
+Air India,India,,,55x40x20,8,,,carried_forward,2026-06,
+IndiGo,India (low-cost),40x30x15,3,55x35x25,7,yes,https://www.goindigo.in/baggage/cabin-baggage.html,primary_verified,2026-09-01,7kg cabin + separate 3kg personal
+SpiceJet,India (low-cost),,,55x35x25,7,yes,https://www.spicejet.com/BaggageInformation.aspx,primary_verified,2026-09-01,Personal item inside the 7kg total
+Sri Lankan,Sri Lanka,,,56x45x25,7,,,carried_forward,2026-06,
+PIA,Pakistan,,,55x38x20,7,,,carried_forward,2026-06,
+Biman,Bangladesh,,,55x38x20,7,,,carried_forward,2026-06,
+Nepal Airlines,Nepal,,,55x38x20,7,,,carried_forward,2026-06,
+Qantas,Australia,,,56x36x23,7,,,carried_forward,2026-06,
+Jetstar,Australia (low-cost),,,56x36x23,7,yes,https://www.jetstar.com/au/en/help/articles/carry-on-baggage-limits,primary_verified,2026-09-01,7kg combined
+Virgin Australia,Australia,,,56x36x23,7,,,carried_forward,2026-06,
+Air New Zealand,New Zealand,,,56x36x23,7,,,carried_forward,2026-06,
+Fiji Airways,Fiji,,,55x40x23,7,,,carried_forward,2026-06,
+LATAM,Latin America,,,55x35x25,8,,,carried_forward,2026-06,
+Avianca,Colombia,,,55x35x25,10,,,carried_forward,2026-06,
+Aeromexico,Mexico,,,55x40x25,10,,,carried_forward,2026-06,
+Volaris,Mexico (low-cost),45x35x20,,55x40x25,10,no,https://cms.volaris.com/en/travel-info/baggage-policy/,primary_verified,2026-09-01,Zero fare = personal item only
+Viva Aerobus,Mexico (low-cost),45x35x20,,55x40x25,10,varies,https://www.vivaaerobus.com/en/info/baggage,primary_verified,2026-09-01,"10kg Switch/Extra, 15kg Smart"
+Copa Airlines,Panama,,,56x36x23,10,,,carried_forward,2026-06,
+Aerolineas Argentinas,Argentina,,,55x35x25,8,,,carried_forward,2026-06,
+GOL,Brazil (low-cost),43x32x22,,55x35x25,10,no,https://www.voegol.com.br/en/information/baggage,primary_verified,2026-09-01,Excluded on Basic fare
+Azul,Brazil,,,55x35x25,10,,,carried_forward,2026-06,
+Sky Airline,Chile (low-cost),,,55x35x25,10,,,carried_forward,2026-06,
+JetSmart,Latin America (low-cost),45x35x25,,55x35x25,10,no,https://jetsmart.com/us/en/PreguntasFrecuentes,primary_verified,2026-09-01,Only underseat bag in basic fare
+South African Airways,South Africa,,,56x36x23,8,,,carried_forward,2026-06,
+Kenya Airways,Kenya,,,55x38x23,12,,,carried_forward,2026-06,
+Ethiopian Airlines,Ethiopia,,,55x38x20,7,,,carried_forward,2026-06,
+Royal Air Maroc,Morocco,,,55x38x20,10,,,carried_forward,2026-06,
+Tunisair,Tunisia,,,55x40x20,8,,,carried_forward,2026-06,
+RwandAir,Rwanda,,,55x38x20,7,,,carried_forward,2026-06,
+Air Senegal,Senegal,,,55x38x20,8,,,carried_forward,2026-06,

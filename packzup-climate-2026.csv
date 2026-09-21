@@ -1,0 +1,1141 @@
+slug,destination,country_code,month,avg_high_c,avg_low_c,rain_mm,rain_days
+albania,Albania,AL,1,11,2.6,126,13
+albania,Albania,AL,2,13.3,3.6,117,7
+albania,Albania,AL,3,15.3,5.3,116,9
+albania,Albania,AL,4,18,8.4,103,13
+albania,Albania,AL,5,22.9,13.1,84,13
+albania,Albania,AL,6,28.1,17.8,66,7
+albania,Albania,AL,7,31.9,20.6,43,4
+albania,Albania,AL,8,31.7,20.4,55,5
+albania,Albania,AL,9,27.3,17.1,79,7
+albania,Albania,AL,10,22.7,13,102,9
+albania,Albania,AL,11,17.9,9.8,163,11
+albania,Albania,AL,12,13.8,6.3,143,13
+amsterdam,Amsterdam,NL,1,7.1,2.7,67,12
+amsterdam,Amsterdam,NL,2,9,3.1,55,11
+amsterdam,Amsterdam,NL,3,10.3,3.4,52,10
+amsterdam,Amsterdam,NL,4,13.1,4.7,40,9
+amsterdam,Amsterdam,NL,5,16.1,8,54,9
+amsterdam,Amsterdam,NL,6,21.4,13.1,65,10
+amsterdam,Amsterdam,NL,7,21.2,13.9,82,11
+amsterdam,Amsterdam,NL,8,22.1,14.7,99,12
+amsterdam,Amsterdam,NL,9,19.7,12,84,11
+amsterdam,Amsterdam,NL,10,15.2,9.7,87,12
+amsterdam,Amsterdam,NL,11,10.5,5.5,85,13
+amsterdam,Amsterdam,NL,12,7.5,3.1,82,14
+argentina,Argentina,AR,1,28.3,20.8,134,8
+argentina,Argentina,AR,2,27.1,19.2,129,7
+argentina,Argentina,AR,3,25.1,18.7,120,7
+argentina,Argentina,AR,4,21.4,14.9,130,7
+argentina,Argentina,AR,5,17.6,10.9,94,5
+argentina,Argentina,AR,6,14.8,8.5,62,5
+argentina,Argentina,AR,7,14.1,7.6,74,6
+argentina,Argentina,AR,8,15.7,8.5,70,5
+argentina,Argentina,AR,9,17.7,10.5,81,6
+argentina,Argentina,AR,10,20.9,12.9,123,8
+argentina,Argentina,AR,11,25,16.9,118,7
+argentina,Argentina,AR,12,27.1,19,123,7
+athens,Athens,GR,1,12.3,5.4,91,9
+athens,Athens,GR,2,13.2,6,51,7
+athens,Athens,GR,3,15,7.2,42,6
+athens,Athens,GR,4,18.7,10.4,44,7
+athens,Athens,GR,5,24.6,15.7,33,5
+athens,Athens,GR,6,29.3,19.9,30,6
+athens,Athens,GR,7,33.6,23.2,5,1
+athens,Athens,GR,8,33.1,23.1,13,3
+athens,Athens,GR,9,28.6,19.5,16,3
+athens,Athens,GR,10,23.8,15.3,38,4
+athens,Athens,GR,11,19.1,11.8,72,8
+athens,Athens,GR,12,14.9,8.6,110,10
+austria,Austria,AT,1,4.4,-1.1,42,11
+austria,Austria,AT,2,8.4,0.7,29,8
+austria,Austria,AT,3,11.5,2,22,5
+austria,Austria,AT,4,14.9,5.2,53,10
+austria,Austria,AT,5,18.7,9.8,84,14
+austria,Austria,AT,6,25.6,15.7,86,12
+austria,Austria,AT,7,27.3,17.1,63,9
+austria,Austria,AT,8,26.2,17,86,11
+austria,Austria,AT,9,21.9,12.7,65,9
+austria,Austria,AT,10,16.5,8.3,49,9
+austria,Austria,AT,11,9.5,3.4,52,10
+austria,Austria,AT,12,5.4,0.1,56,12
+bahamas,Bahamas,BS,1,24.9,21,32,10
+bahamas,Bahamas,BS,2,25.9,21.9,34,12
+bahamas,Bahamas,BS,3,26.3,22.1,35,10
+bahamas,Bahamas,BS,4,27.4,23.2,52,14
+bahamas,Bahamas,BS,5,28.1,24.2,106,18
+bahamas,Bahamas,BS,6,29.4,25.7,87,19
+bahamas,Bahamas,BS,7,30.8,26.9,72,18
+bahamas,Bahamas,BS,8,31,27.2,82,18
+bahamas,Bahamas,BS,9,30.4,26.7,105,17
+bahamas,Bahamas,BS,10,29.1,25.5,96,18
+bahamas,Bahamas,BS,11,27.2,23.9,69,12
+bahamas,Bahamas,BS,12,25.6,22.1,57,11
+bali,Bali,ID,1,28.9,24.1,292,28
+bali,Bali,ID,2,29,24.1,253,26
+bali,Bali,ID,3,29.2,23.9,237,27
+bali,Bali,ID,4,29.1,24,152,22
+bali,Bali,ID,5,28.9,24.2,112,19
+bali,Bali,ID,6,28.1,23.6,99,19
+bali,Bali,ID,7,27,23.1,82,18
+bali,Bali,ID,8,27.1,22.6,65,21
+bali,Bali,ID,9,27.7,22.7,73,20
+bali,Bali,ID,10,28.9,23.2,103,19
+bali,Bali,ID,11,29.5,23.9,166,24
+bali,Bali,ID,12,29.6,24,230,26
+banff,Banff,CA,1,-4.4,-12.7,20,6
+banff,Banff,CA,2,-5.4,-15.4,27,7
+banff,Banff,CA,3,1.3,-9.8,31,9
+banff,Banff,CA,4,5.6,-5.2,31,9
+banff,Banff,CA,5,12.5,0.8,49,10
+banff,Banff,CA,6,17.8,4.2,92,13
+banff,Banff,CA,7,22.2,8,60,12
+banff,Banff,CA,8,22.1,8,47,8
+banff,Banff,CA,9,16.8,3.8,41,9
+banff,Banff,CA,10,7.6,-3.9,40,9
+banff,Banff,CA,11,-1.2,-11.4,44,10
+banff,Banff,CA,12,-6.3,-14.4,44,10
+bangkok,Bangkok,TH,1,31.6,22.1,24,2
+bangkok,Bangkok,TH,2,32.4,23.7,21,2
+bangkok,Bangkok,TH,3,33.4,25.8,51,3
+bangkok,Bangkok,TH,4,33.9,26.8,93,5
+bangkok,Bangkok,TH,5,33.7,26.6,217,12
+bangkok,Bangkok,TH,6,32.8,26.2,199,13
+bangkok,Bangkok,TH,7,32,25.7,190,14
+bangkok,Bangkok,TH,8,31.4,25.5,227,16
+bangkok,Bangkok,TH,9,30.8,25,336,18
+bangkok,Bangkok,TH,10,30.6,24.3,289,14
+bangkok,Bangkok,TH,11,31.3,23.7,45,4
+bangkok,Bangkok,TH,12,31,22,12,1
+barcelona,Barcelona,ES,1,13.2,4,43,4
+barcelona,Barcelona,ES,2,15.2,6.1,33,4
+barcelona,Barcelona,ES,3,16.3,8,42,4
+barcelona,Barcelona,ES,4,17.7,9.9,47,6
+barcelona,Barcelona,ES,5,21.4,13.7,42,5
+barcelona,Barcelona,ES,6,25.9,18.6,27,3
+barcelona,Barcelona,ES,7,28.7,21.6,27,2
+barcelona,Barcelona,ES,8,28.9,21.7,51,4
+barcelona,Barcelona,ES,9,25.8,18.5,86,6
+barcelona,Barcelona,ES,10,22.3,14.8,84,7
+barcelona,Barcelona,ES,11,17.8,9.6,48,5
+barcelona,Barcelona,ES,12,15.4,6.4,38,4
+berlin,Berlin,DE,1,4.8,0.4,48,10
+berlin,Berlin,DE,2,7.1,0.3,36,8
+berlin,Berlin,DE,3,9.7,1.3,41,9
+berlin,Berlin,DE,4,13.6,3.7,29,7
+berlin,Berlin,DE,5,18,8.3,52,8
+berlin,Berlin,DE,6,25.7,14.7,58,9
+berlin,Berlin,DE,7,24.5,15.1,72,9
+berlin,Berlin,DE,8,25.2,15.8,58,8
+berlin,Berlin,DE,9,20.6,11.6,47,8
+berlin,Berlin,DE,10,15.3,8.4,44,9
+berlin,Berlin,DE,11,8.7,3.5,42,9
+berlin,Berlin,DE,12,4.9,0.5,44,10
+brazil,Brazil,BR,1,29.8,23.7,206,16
+brazil,Brazil,BR,2,29,23.6,180,14
+brazil,Brazil,BR,3,29,23.2,226,15
+brazil,Brazil,BR,4,26.7,21.5,145,9
+brazil,Brazil,BR,5,25.4,19.7,27,3
+brazil,Brazil,BR,6,25,18.9,3,1
+brazil,Brazil,BR,7,24.8,18.1,2,0
+brazil,Brazil,BR,8,24.8,18.2,16,2
+brazil,Brazil,BR,9,26,19.6,38,4
+brazil,Brazil,BR,10,26.4,20.8,142,10
+brazil,Brazil,BR,11,26.4,20.9,253,17
+brazil,Brazil,BR,12,27.9,22.4,241,18
+budapest,Budapest,HU,1,4.4,-1.7,31,6
+budapest,Budapest,HU,2,8.5,-0.1,31,6
+budapest,Budapest,HU,3,12.2,1.8,32,6
+budapest,Budapest,HU,4,16.1,5.5,35,6
+budapest,Budapest,HU,5,20.1,10.6,65,8
+budapest,Budapest,HU,6,26.4,16.4,65,7
+budapest,Budapest,HU,7,28.5,17.9,74,8
+budapest,Budapest,HU,8,28.2,17.7,59,5
+budapest,Budapest,HU,9,23,13.1,51,6
+budapest,Budapest,HU,10,17.3,8.2,44,6
+budapest,Budapest,HU,11,9.9,3.6,47,7
+budapest,Budapest,HU,12,5.2,-0.2,39,7
+buenos-aires,Buenos Aires,AR,1,28.3,20.8,98,10
+buenos-aires,Buenos Aires,AR,2,27.1,19.2,71,6
+buenos-aires,Buenos Aires,AR,3,25.1,18.7,140,9
+buenos-aires,Buenos Aires,AR,4,21.4,14.9,81,7
+buenos-aires,Buenos Aires,AR,5,17.6,10.9,61,5
+buenos-aires,Buenos Aires,AR,6,14.8,8.5,65,7
+buenos-aires,Buenos Aires,AR,7,14.1,7.6,56,7
+buenos-aires,Buenos Aires,AR,8,15.7,8.5,37,4
+buenos-aires,Buenos Aires,AR,9,17.7,10.5,64,6
+buenos-aires,Buenos Aires,AR,10,20.9,12.9,90,8
+buenos-aires,Buenos Aires,AR,11,25,16.9,74,7
+buenos-aires,Buenos Aires,AR,12,27.1,19,77,8
+cairo,Cairo,EG,1,19.6,8.9,5,1
+cairo,Cairo,EG,2,20.7,9.1,4,2
+cairo,Cairo,EG,3,24.3,11.6,6,1
+cairo,Cairo,EG,4,29.8,14.8,1,1
+cairo,Cairo,EG,5,34.9,19,0,1
+cairo,Cairo,EG,6,36.9,21.6,0,1
+cairo,Cairo,EG,7,38.9,23.2,0,1
+cairo,Cairo,EG,8,38.6,23.8,0,1
+cairo,Cairo,EG,9,36.5,22.7,0,1
+cairo,Cairo,EG,10,32,19.6,1,0
+cairo,Cairo,EG,11,27.3,15.5,4,1
+cairo,Cairo,EG,12,22.5,11.5,3,1
+cambodia,Cambodia,KH,1,31.1,21.5,20,2
+cambodia,Cambodia,KH,2,32.3,22.8,33,6
+cambodia,Cambodia,KH,3,34,24.8,51,9
+cambodia,Cambodia,KH,4,33.4,25.5,133,17
+cambodia,Cambodia,KH,5,33,26,202,23
+cambodia,Cambodia,KH,6,32.9,26,136,22
+cambodia,Cambodia,KH,7,32.2,25.6,226,25
+cambodia,Cambodia,KH,8,31.8,25.5,222,27
+cambodia,Cambodia,KH,9,30.3,24.5,376,28
+cambodia,Cambodia,KH,10,30.2,23.6,265,23
+cambodia,Cambodia,KH,11,30.4,22.8,114,14
+cambodia,Cambodia,KH,12,30,21.2,27,4
+cancun,Cancun,MX,1,26.2,21.5,88,15
+cancun,Cancun,MX,2,27.1,22.8,59,13
+cancun,Cancun,MX,3,28,23.2,34,9
+cancun,Cancun,MX,4,29.5,24.2,35,7
+cancun,Cancun,MX,5,30.1,24.9,87,15
+cancun,Cancun,MX,6,30.3,25.5,143,17
+cancun,Cancun,MX,7,31.4,26,72,14
+cancun,Cancun,MX,8,31.3,25.7,129,17
+cancun,Cancun,MX,9,30.7,25.3,123,19
+cancun,Cancun,MX,10,29.8,24.5,156,22
+cancun,Cancun,MX,11,28,23.2,134,17
+cancun,Cancun,MX,12,26.8,22,95,15
+cape-town,Cape Town,ZA,1,25,17.1,9,2
+cape-town,Cape Town,ZA,2,25.6,17.5,10,2
+cape-town,Cape Town,ZA,3,23.4,16,13,3
+cape-town,Cape Town,ZA,4,21.7,14.1,40,5
+cape-town,Cape Town,ZA,5,19.1,12.1,61,7
+cape-town,Cape Town,ZA,6,17.7,11.2,92,10
+cape-town,Cape Town,ZA,7,16.5,9.9,85,9
+cape-town,Cape Town,ZA,8,16.6,10,72,9
+cape-town,Cape Town,ZA,9,18,11.2,44,7
+cape-town,Cape Town,ZA,10,20.8,13.1,28,4
+cape-town,Cape Town,ZA,11,22.1,14.5,25,4
+cape-town,Cape Town,ZA,12,23.3,15.9,13,3
+cappadocia,Cappadocia,TR,1,5,-3.4,52,9
+cappadocia,Cappadocia,TR,2,5.6,-3.5,46,7
+cappadocia,Cappadocia,TR,3,9.4,-0.8,68,13
+cappadocia,Cappadocia,TR,4,16,4.7,42,9
+cappadocia,Cappadocia,TR,5,21.3,9,45,10
+cappadocia,Cappadocia,TR,6,24.6,12.7,38,9
+cappadocia,Cappadocia,TR,7,28.6,14.2,4,1
+cappadocia,Cappadocia,TR,8,29.9,15.5,6,2
+cappadocia,Cappadocia,TR,9,25.5,12.1,13,3
+cappadocia,Cappadocia,TR,10,20.4,7.6,12,3
+cappadocia,Cappadocia,TR,11,13.8,2.9,28,5
+cappadocia,Cappadocia,TR,12,8.8,-0.2,42,7
+chiang-mai,Chiang Mai,TH,1,27.6,16.7,11,1
+chiang-mai,Chiang Mai,TH,2,30.3,17.8,10,1
+chiang-mai,Chiang Mai,TH,3,34.4,21,20,2
+chiang-mai,Chiang Mai,TH,4,35.1,23.2,54,5
+chiang-mai,Chiang Mai,TH,5,34.2,24.7,168,12
+chiang-mai,Chiang Mai,TH,6,32,24.3,118,12
+chiang-mai,Chiang Mai,TH,7,30.7,24,149,14
+chiang-mai,Chiang Mai,TH,8,29.5,23.7,223,17
+chiang-mai,Chiang Mai,TH,9,29.5,23.2,207,15
+chiang-mai,Chiang Mai,TH,10,29.3,22.3,124,9
+chiang-mai,Chiang Mai,TH,11,29.2,20.4,41,3
+chiang-mai,Chiang Mai,TH,12,27.5,17.2,14,1
+chile,Chile,CL,1,29.7,15,1,0
+chile,Chile,CL,2,29.6,15.3,1,0
+chile,Chile,CL,3,28.1,14.1,4,1
+chile,Chile,CL,4,23.8,11.9,18,2
+chile,Chile,CL,5,19.5,9.8,43,4
+chile,Chile,CL,6,15.4,7.3,80,5
+chile,Chile,CL,7,15.1,6.6,50,4
+chile,Chile,CL,8,16.8,7.6,44,3
+chile,Chile,CL,9,18.5,8.4,25,3
+chile,Chile,CL,10,22.6,10,12,1
+chile,Chile,CL,11,26.4,11.9,5,1
+chile,Chile,CL,12,29.5,14.1,3,0
+colombia,Colombia,CO,1,25.5,15.4,33,5
+colombia,Colombia,CO,2,26,16,51,7
+colombia,Colombia,CO,3,25.3,16,83,11
+colombia,Colombia,CO,4,25.5,16.4,117,13
+colombia,Colombia,CO,5,26,16.6,109,14
+colombia,Colombia,CO,6,25.5,16,57,10
+colombia,Colombia,CO,7,26.4,15.8,49,10
+colombia,Colombia,CO,8,26.6,15.9,44,9
+colombia,Colombia,CO,9,26.6,16.1,57,9
+colombia,Colombia,CO,10,25.2,16,108,12
+colombia,Colombia,CO,11,25,16,107,12
+colombia,Colombia,CO,12,25.5,16.1,61,8
+copenhagen,Copenhagen,DK,1,4.8,1.6,54,11
+copenhagen,Copenhagen,DK,2,5.5,1.4,40,9
+copenhagen,Copenhagen,DK,3,7.1,1.8,39,8
+copenhagen,Copenhagen,DK,4,10.4,3.7,34,7
+copenhagen,Copenhagen,DK,5,14.2,8,43,8
+copenhagen,Copenhagen,DK,6,20,13.4,64,9
+copenhagen,Copenhagen,DK,7,20.3,14.7,66,9
+copenhagen,Copenhagen,DK,8,20.7,15.1,76,10
+copenhagen,Copenhagen,DK,9,17.7,12.9,63,9
+copenhagen,Copenhagen,DK,10,13.2,9.5,68,11
+copenhagen,Copenhagen,DK,11,8.6,5.9,58,11
+copenhagen,Copenhagen,DK,12,4.9,2.1,58,12
+costa-rica,Costa Rica,CR,1,24.8,15.5,8,1
+costa-rica,Costa Rica,CR,2,26,15.5,10,1
+costa-rica,Costa Rica,CR,3,26.5,15.7,17,2
+costa-rica,Costa Rica,CR,4,26.7,16.5,81,7
+costa-rica,Costa Rica,CR,5,25.5,16.9,262,17
+costa-rica,Costa Rica,CR,6,24.4,16.6,235,18
+costa-rica,Costa Rica,CR,7,24.7,16.7,167,14
+costa-rica,Costa Rica,CR,8,24.7,16.5,224,17
+costa-rica,Costa Rica,CR,9,24.8,16.1,320,22
+costa-rica,Costa Rica,CR,10,24.2,15.9,317,21
+costa-rica,Costa Rica,CR,11,23.8,16.2,166,13
+costa-rica,Costa Rica,CR,12,24.3,15.9,31,4
+croatia,Croatia,HR,1,10.8,3.8,46,7
+croatia,Croatia,HR,2,12.9,4.7,45,6
+croatia,Croatia,HR,3,14.6,6.3,48,7
+croatia,Croatia,HR,4,17.2,9.3,61,8
+croatia,Croatia,HR,5,21.9,14.3,77,9
+croatia,Croatia,HR,6,28,19.4,91,10
+croatia,Croatia,HR,7,31.4,22,80,8
+croatia,Croatia,HR,8,31,22.3,86,7
+croatia,Croatia,HR,9,26.6,18.2,104,9
+croatia,Croatia,HR,10,21.7,13.7,89,8
+croatia,Croatia,HR,11,16.8,10.6,87,9
+croatia,Croatia,HR,12,13.2,7.2,62,8
+cuba,Cuba,CU,1,26.6,19.3,64,5
+cuba,Cuba,CU,2,28.6,20.3,69,5
+cuba,Cuba,CU,3,29.2,20.7,46,3
+cuba,Cuba,CU,4,30.8,22.2,54,3
+cuba,Cuba,CU,5,31,23.1,98,6
+cuba,Cuba,CU,6,31.6,24.2,182,10
+cuba,Cuba,CU,7,32.4,24.9,106,7
+cuba,Cuba,CU,8,32.5,25,100,9
+cuba,Cuba,CU,9,31.3,24.6,144,10
+cuba,Cuba,CU,10,30.3,23.7,181,11
+cuba,Cuba,CU,11,28.5,22.3,88,6
+cuba,Cuba,CU,12,27.2,20.3,58,5
+cusco,Cusco,PE,1,16.4,7.7,146,28
+cusco,Cusco,PE,2,16.2,8.3,126,27
+cusco,Cusco,PE,3,16.1,7.6,97,26
+cusco,Cusco,PE,4,16.6,6.8,33,17
+cusco,Cusco,PE,5,16.8,5.7,6,9
+cusco,Cusco,PE,6,17.3,4.7,4,1
+cusco,Cusco,PE,7,18.2,4.6,4,3
+cusco,Cusco,PE,8,18.7,5.2,5,6
+cusco,Cusco,PE,9,18.6,6.3,15,11
+cusco,Cusco,PE,10,18.8,7.4,44,19
+cusco,Cusco,PE,11,18.5,8.1,71,24
+cusco,Cusco,PE,12,17.2,8.4,115,28
+denmark,Denmark,DK,1,4.8,1.5,54,11
+denmark,Denmark,DK,2,5.5,1.4,40,9
+denmark,Denmark,DK,3,7.1,1.8,39,8
+denmark,Denmark,DK,4,10.4,3.7,34,7
+denmark,Denmark,DK,5,14.1,7.9,43,8
+denmark,Denmark,DK,6,20,13.4,64,9
+denmark,Denmark,DK,7,20.3,14.7,66,9
+denmark,Denmark,DK,8,20.7,15.1,76,10
+denmark,Denmark,DK,9,17.7,12.9,63,9
+denmark,Denmark,DK,10,13.2,9.4,68,11
+denmark,Denmark,DK,11,8.5,5.9,58,11
+denmark,Denmark,DK,12,4.9,2.1,58,12
+dolomites,Dolomites,IT,1,1.1,-7.3,54,8
+dolomites,Dolomites,IT,2,4.7,-4.8,45,5
+dolomites,Dolomites,IT,3,5.7,-3.8,46,8
+dolomites,Dolomites,IT,4,8.1,-0.8,104,12
+dolomites,Dolomites,IT,5,13,3.8,167,22
+dolomites,Dolomites,IT,6,19.8,9.7,163,23
+dolomites,Dolomites,IT,7,21.2,11.2,172,25
+dolomites,Dolomites,IT,8,20.6,11.1,164,23
+dolomites,Dolomites,IT,9,17.4,8.1,88,15
+dolomites,Dolomites,IT,10,13.2,4.5,133,12
+dolomites,Dolomites,IT,11,6.6,-1.7,173,10
+dolomites,Dolomites,IT,12,2.6,-5,141,10
+dubai,Dubai,AE,1,24.3,14.2,21,3
+dubai,Dubai,AE,2,26.2,15.4,10,2
+dubai,Dubai,AE,3,29.8,18.2,22,3
+dubai,Dubai,AE,4,34.3,21.4,3,2
+dubai,Dubai,AE,5,38.3,24.5,0,1
+dubai,Dubai,AE,6,41.9,28,0,0
+dubai,Dubai,AE,7,42.2,30.7,1,2
+dubai,Dubai,AE,8,42.6,30.1,0,0
+dubai,Dubai,AE,9,40.7,27.3,0,1
+dubai,Dubai,AE,10,36.5,23.6,2,2
+dubai,Dubai,AE,11,31.1,20,6,2
+dubai,Dubai,AE,12,26.8,16.4,15,3
+ecuador,Ecuador,EC,1,17.1,8.5,83,13
+ecuador,Ecuador,EC,2,17.5,8.7,111,14
+ecuador,Ecuador,EC,3,16.9,8.8,147,19
+ecuador,Ecuador,EC,4,17.2,8.6,171,20
+ecuador,Ecuador,EC,5,17.5,8.4,106,17
+ecuador,Ecuador,EC,6,17.2,7.6,40,10
+ecuador,Ecuador,EC,7,17.7,7.2,22,7
+ecuador,Ecuador,EC,8,19.1,7.3,28,7
+ecuador,Ecuador,EC,9,19.7,7.4,69,12
+ecuador,Ecuador,EC,10,18.4,8.2,115,18
+ecuador,Ecuador,EC,11,17.6,8.6,109,16
+ecuador,Ecuador,EC,12,17.3,8.9,100,15
+edinburgh,Edinburgh,GB,1,6.5,2.5,65,12
+edinburgh,Edinburgh,GB,2,7.9,3.1,53,10
+edinburgh,Edinburgh,GB,3,8.9,3.2,49,10
+edinburgh,Edinburgh,GB,4,10.7,3.8,41,9
+edinburgh,Edinburgh,GB,5,13.6,6.9,48,10
+edinburgh,Edinburgh,GB,6,16.8,10.3,66,10
+edinburgh,Edinburgh,GB,7,18.5,12.3,72,12
+edinburgh,Edinburgh,GB,8,18,12.1,72,10
+edinburgh,Edinburgh,GB,9,16.5,10.5,55,10
+edinburgh,Edinburgh,GB,10,12.4,7.8,76,12
+edinburgh,Edinburgh,GB,11,9.1,4.8,65,12
+edinburgh,Edinburgh,GB,12,6.7,2.8,67,12
+egypt,Egypt,EG,1,19.6,8.9,5,1
+egypt,Egypt,EG,2,20.7,9.1,4,2
+egypt,Egypt,EG,3,24.3,11.6,6,1
+egypt,Egypt,EG,4,29.8,14.8,1,1
+egypt,Egypt,EG,5,34.9,19,0,1
+egypt,Egypt,EG,6,36.9,21.6,0,1
+egypt,Egypt,EG,7,38.9,23.2,0,1
+egypt,Egypt,EG,8,38.6,23.8,0,1
+egypt,Egypt,EG,9,36.5,22.7,0,1
+egypt,Egypt,EG,10,32,19.6,1,0
+egypt,Egypt,EG,11,27.3,15.5,4,1
+egypt,Egypt,EG,12,22.5,11.5,3,1
+fiji,Fiji,FJ,1,29.7,23.9,343,19
+fiji,Fiji,FJ,2,30,24,276,17
+fiji,Fiji,FJ,3,29.3,23.7,340,20
+fiji,Fiji,FJ,4,29.5,23.6,335,18
+fiji,Fiji,FJ,5,28.8,22.2,233,15
+fiji,Fiji,FJ,6,28.1,21.2,156,13
+fiji,Fiji,FJ,7,28.3,21.1,136,13
+fiji,Fiji,FJ,8,28,20.8,144,13
+fiji,Fiji,FJ,9,28.8,21.3,188,13
+fiji,Fiji,FJ,10,29.3,22,248,15
+fiji,Fiji,FJ,11,29.7,22.7,247,15
+fiji,Fiji,FJ,12,30.1,23.5,344,18
+france,France,FR,1,7.2,2.2,48,10
+france,France,FR,2,10.5,3.2,42,9
+france,France,FR,3,12.5,4.2,45,10
+france,France,FR,4,15.6,5.6,46,9
+france,France,FR,5,18.8,9.3,69,9
+france,France,FR,6,24,14,51,8
+france,France,FR,7,25.5,15.1,59,7
+france,France,FR,8,25.1,15.4,58,8
+france,France,FR,9,22.6,13.1,45,8
+france,France,FR,10,17.2,10,55,10
+france,France,FR,11,11.2,5.7,54,10
+france,France,FR,12,8.5,3.9,62,11
+germany,Germany,DE,1,4.8,0.4,48,10
+germany,Germany,DE,2,7.1,0.3,36,8
+germany,Germany,DE,3,9.7,1.3,41,9
+germany,Germany,DE,4,13.6,3.7,29,7
+germany,Germany,DE,5,18,8.3,52,8
+germany,Germany,DE,6,25.7,14.7,58,9
+germany,Germany,DE,7,24.5,15.1,72,9
+germany,Germany,DE,8,25.2,15.8,58,8
+germany,Germany,DE,9,20.6,11.6,47,8
+germany,Germany,DE,10,15.3,8.4,44,9
+germany,Germany,DE,11,8.7,3.5,42,9
+germany,Germany,DE,12,4.9,0.5,44,10
+greece,Greece,GR,1,12.2,5.4,91,9
+greece,Greece,GR,2,13.2,5.9,51,7
+greece,Greece,GR,3,15,7.2,42,6
+greece,Greece,GR,4,18.7,10.3,44,7
+greece,Greece,GR,5,24.6,15.6,33,5
+greece,Greece,GR,6,29.3,19.9,30,6
+greece,Greece,GR,7,33.6,23.2,5,1
+greece,Greece,GR,8,33.1,23,13,3
+greece,Greece,GR,9,28.5,19.5,16,3
+greece,Greece,GR,10,23.8,15.3,38,4
+greece,Greece,GR,11,19,11.8,72,8
+greece,Greece,GR,12,14.9,8.5,110,10
+guatemala,Guatemala,GT,1,23.2,12.1,21,4
+guatemala,Guatemala,GT,2,24.9,12.6,12,2
+guatemala,Guatemala,GT,3,26.4,13.4,21,4
+guatemala,Guatemala,GT,4,27.4,15,68,8
+guatemala,Guatemala,GT,5,25.8,15.7,201,18
+guatemala,Guatemala,GT,6,23.8,15.5,236,22
+guatemala,Guatemala,GT,7,23.9,15,132,16
+guatemala,Guatemala,GT,8,24.2,15.2,157,19
+guatemala,Guatemala,GT,9,23.9,15.2,220,23
+guatemala,Guatemala,GT,10,23.1,14.9,143,16
+guatemala,Guatemala,GT,11,22,13.9,59,8
+guatemala,Guatemala,GT,12,22.6,12.5,27,5
+hanoi,Hanoi,VN,1,21.2,14,52,11
+hanoi,Hanoi,VN,2,23.1,16.1,77,12
+hanoi,Hanoi,VN,3,26.2,19.4,89,14
+hanoi,Hanoi,VN,4,28.5,21.5,127,15
+hanoi,Hanoi,VN,5,31.8,24.8,193,17
+hanoi,Hanoi,VN,6,33.8,26.9,221,16
+hanoi,Hanoi,VN,7,33.4,26.8,217,18
+hanoi,Hanoi,VN,8,31.9,26,423,25
+hanoi,Hanoi,VN,9,30.8,24.8,353,22
+hanoi,Hanoi,VN,10,27.9,21.7,235,15
+hanoi,Hanoi,VN,11,26.4,19.2,61,8
+hanoi,Hanoi,VN,12,21.5,14.1,21,5
+hawaii,Hawaii,US,1,25.4,20.3,34,8
+hawaii,Hawaii,US,2,24.7,19.8,48,9
+hawaii,Hawaii,US,3,25,20.3,64,14
+hawaii,Hawaii,US,4,26,21,40,11
+hawaii,Hawaii,US,5,27,21.9,35,10
+hawaii,Hawaii,US,6,28.4,22.9,35,7
+hawaii,Hawaii,US,7,28.8,23.4,19,6
+hawaii,Hawaii,US,8,29.5,23.7,20,7
+hawaii,Hawaii,US,9,29.4,23.7,20,7
+hawaii,Hawaii,US,10,28.6,23,31,10
+hawaii,Hawaii,US,11,27.4,22.3,32,7
+hawaii,Hawaii,US,12,25.8,21,75,8
+hong-kong,Hong Kong,HK,1,18.7,13.1,33,3
+hong-kong,Hong Kong,HK,2,19.8,14.4,39,4
+hong-kong,Hong Kong,HK,3,22.4,17.9,75,6
+hong-kong,Hong Kong,HK,4,24.2,20.1,153,8
+hong-kong,Hong Kong,HK,5,26.8,23.5,291,12
+hong-kong,Hong Kong,HK,6,28.6,25.6,492,16
+hong-kong,Hong Kong,HK,7,29.7,26.4,386,16
+hong-kong,Hong Kong,HK,8,29.2,25.7,453,15
+hong-kong,Hong Kong,HK,9,29.1,25,321,12
+hong-kong,Hong Kong,HK,10,26.6,21.9,120,5
+hong-kong,Hong Kong,HK,11,24.3,18.7,39,3
+hong-kong,Hong Kong,HK,12,19.9,13.2,29,3
+iceland,Iceland,IS,1,1.7,-2.9,87,15
+iceland,Iceland,IS,2,2.3,-1.8,91,15
+iceland,Iceland,IS,3,2.8,-1.6,81,14
+iceland,Iceland,IS,4,6.6,1.7,59,12
+iceland,Iceland,IS,5,8.7,3.7,53,11
+iceland,Iceland,IS,6,11.3,6.6,43,9
+iceland,Iceland,IS,7,13.3,8.7,50,10
+iceland,Iceland,IS,8,13.2,8.6,65,12
+iceland,Iceland,IS,9,10.4,6,87,15
+iceland,Iceland,IS,10,6.7,2.7,80,13
+iceland,Iceland,IS,11,4.3,0.5,87,14
+iceland,Iceland,IS,12,1,-3,95,15
+india,India,IN,1,18.6,7.7,19,5
+india,India,IN,2,23.2,10.7,22,3
+india,India,IN,3,29,15.7,19,4
+india,India,IN,4,36.1,21.2,13,1
+india,India,IN,5,37.7,24.4,29,4
+india,India,IN,6,38.2,27.2,81,6
+india,India,IN,7,34.3,26.9,196,22
+india,India,IN,8,33.1,26.3,227,17
+india,India,IN,9,32.8,25.2,128,15
+india,India,IN,10,31.3,19.6,14,3
+india,India,IN,11,26.4,14,4,1
+india,India,IN,12,20.9,9,8,1
+indonesia,Indonesia,ID,1,29.7,23.7,373,18
+indonesia,Indonesia,ID,2,29.7,23.6,381,18
+indonesia,Indonesia,ID,3,30.6,23.7,210,14
+indonesia,Indonesia,ID,4,31.4,23.9,164,12
+indonesia,Indonesia,ID,5,31.6,24,103,8
+indonesia,Indonesia,ID,6,31.6,23.4,80,6
+indonesia,Indonesia,ID,7,32.2,23.3,78,5
+indonesia,Indonesia,ID,8,32.8,23.4,52,3
+indonesia,Indonesia,ID,9,33,23.6,61,4
+indonesia,Indonesia,ID,10,32.8,24,112,7
+indonesia,Indonesia,ID,11,31.9,24,135,10
+indonesia,Indonesia,ID,12,30.9,23.8,183,13
+istanbul,Istanbul,TR,1,9.7,4.1,99,12
+istanbul,Istanbul,TR,2,10.1,3.9,84,11
+istanbul,Istanbul,TR,3,11.4,4.7,77,11
+istanbul,Istanbul,TR,4,15.8,8,68,11
+istanbul,Istanbul,TR,5,21.5,13,53,8
+istanbul,Istanbul,TR,6,25.6,17.9,65,10
+istanbul,Istanbul,TR,7,28.8,20.3,33,4
+istanbul,Istanbul,TR,8,29.5,21.3,26,4
+istanbul,Istanbul,TR,9,25.6,17.9,32,5
+istanbul,Istanbul,TR,10,21,14.2,52,7
+istanbul,Istanbul,TR,11,17,10.6,90,9
+istanbul,Istanbul,TR,12,12.7,7.2,66,12
+italy,Italy,IT,1,12,3.3,75,10
+italy,Italy,IT,2,14.8,4.7,46,5
+italy,Italy,IT,3,16.6,6,64,8
+italy,Italy,IT,4,18.8,8.2,70,11
+italy,Italy,IT,5,23.3,13.1,81,13
+italy,Italy,IT,6,29.8,17.8,44,5
+italy,Italy,IT,7,33.4,21,18,4
+italy,Italy,IT,8,32.6,21.1,37,5
+italy,Italy,IT,9,28.2,17.5,77,8
+italy,Italy,IT,10,23.1,13.5,76,10
+italy,Italy,IT,11,17.7,10,194,16
+italy,Italy,IT,12,14.2,6.4,131,12
+jamaica,Jamaica,JM,1,28.5,19.6,15,14
+jamaica,Jamaica,JM,2,28.8,19.6,9,15
+jamaica,Jamaica,JM,3,28.9,19.8,25,19
+jamaica,Jamaica,JM,4,29.4,20.6,28,21
+jamaica,Jamaica,JM,5,30.2,22.1,99,17
+jamaica,Jamaica,JM,6,31,22.8,65,17
+jamaica,Jamaica,JM,7,31.4,22.8,56,20
+jamaica,Jamaica,JM,8,31.2,23.1,102,23
+jamaica,Jamaica,JM,9,30.7,22.9,185,25
+jamaica,Jamaica,JM,10,29.8,22.7,162,25
+jamaica,Jamaica,JM,11,29.3,21.8,88,22
+jamaica,Jamaica,JM,12,28.7,20.7,41,17
+japan,Japan,JP,1,9,-0.1,60,5
+japan,Japan,JP,2,10.8,0.9,57,5
+japan,Japan,JP,3,15.3,5.5,116,9
+japan,Japan,JP,4,18.2,8.8,134,10
+japan,Japan,JP,5,22.9,14.2,140,10
+japan,Japan,JP,6,26.2,18.6,168,12
+japan,Japan,JP,7,29.6,22.7,156,11
+japan,Japan,JP,8,32,24.4,155,8
+japan,Japan,JP,9,27.8,20.9,225,11
+japan,Japan,JP,10,21.5,13.9,235,11
+japan,Japan,JP,11,17.5,8.3,96,7
+japan,Japan,JP,12,11.6,2.3,58,5
+jordan,Jordan,JO,1,12.1,4.4,62,8
+jordan,Jordan,JO,2,13.6,5.1,54,7
+jordan,Jordan,JO,3,16.4,7.1,51,7
+jordan,Jordan,JO,4,23.2,11.6,17,3
+jordan,Jordan,JO,5,28.9,16.2,3,1
+jordan,Jordan,JO,6,30.9,18.4,0,0
+jordan,Jordan,JO,7,33.6,20.8,0,0
+jordan,Jordan,JO,8,33.9,20.9,0,0
+jordan,Jordan,JO,9,32.1,19.6,0,0
+jordan,Jordan,JO,10,27.4,16.4,8,1
+jordan,Jordan,JO,11,20.5,11.2,25,4
+jordan,Jordan,JO,12,15.1,7.2,51,5
+korea,Korea,KR,1,2.4,-6.6,17,3
+korea,Korea,KR,2,5.3,-4.8,28,3
+korea,Korea,KR,3,12.1,0.4,37,5
+korea,Korea,KR,4,17,5.9,73,7
+korea,Korea,KR,5,22.5,11.7,104,7
+korea,Korea,KR,6,26.2,17.6,130,8
+korea,Korea,KR,7,28.8,21.8,414,13
+korea,Korea,KR,8,28.6,22.1,348,12
+korea,Korea,KR,9,25,17.2,142,7
+korea,Korea,KR,10,18.4,9.1,52,5
+korea,Korea,KR,11,11.4,1.7,51,6
+korea,Korea,KR,12,3,-5.7,23,4
+kyoto,Kyoto,JP,1,8.3,-0.8,53,6
+kyoto,Kyoto,JP,2,9.4,0,65,7
+kyoto,Kyoto,JP,3,14.5,3.6,106,10
+kyoto,Kyoto,JP,4,18.1,7.3,117,9
+kyoto,Kyoto,JP,5,23.2,12.7,151,10
+kyoto,Kyoto,JP,6,26.8,17.9,200,12
+kyoto,Kyoto,JP,7,29.7,22.3,224,12
+kyoto,Kyoto,JP,8,32,24,154,8
+kyoto,Kyoto,JP,9,28.4,20.6,179,10
+kyoto,Kyoto,JP,10,21.9,12.7,143,8
+kyoto,Kyoto,JP,11,16.8,6.8,74,6
+kyoto,Kyoto,JP,12,10.8,1.2,57,7
+laos,Laos,LA,1,27.7,17.7,7,2
+laos,Laos,LA,2,29.7,19.5,17,2
+laos,Laos,LA,3,32.5,22.7,44,5
+laos,Laos,LA,4,33.7,24.6,89,7
+laos,Laos,LA,5,33,25.4,226,15
+laos,Laos,LA,6,31.3,25.1,264,18
+laos,Laos,LA,7,31.1,24.9,300,20
+laos,Laos,LA,8,30.2,24.5,341,21
+laos,Laos,LA,9,30.1,24,265,17
+laos,Laos,LA,10,29.8,22.8,87,8
+laos,Laos,LA,11,29.9,21.1,18,2
+laos,Laos,LA,12,27.5,17.6,5,1
+lisbon,Lisbon,PT,1,14.4,8.4,104,10
+lisbon,Lisbon,PT,2,16.7,9.3,78,8
+lisbon,Lisbon,PT,3,18.2,10.5,69,8
+lisbon,Lisbon,PT,4,19.4,11.9,72,8
+lisbon,Lisbon,PT,5,23.8,14.9,58,6
+lisbon,Lisbon,PT,6,24.6,16.1,14,2
+lisbon,Lisbon,PT,7,28.4,18.1,3,1
+lisbon,Lisbon,PT,8,28.1,18.3,5,1
+lisbon,Lisbon,PT,9,26,17.7,39,4
+lisbon,Lisbon,PT,10,23.3,15.5,111,9
+lisbon,Lisbon,PT,11,18.1,12.2,134,10
+lisbon,Lisbon,PT,12,16.1,10.7,109,10
+london,London,GB,1,7.7,1.6,59,12
+london,London,GB,2,10,3.1,45,10
+london,London,GB,3,11.4,3.9,39,9
+london,London,GB,4,14,4.3,42,9
+london,London,GB,5,17.2,7.9,46,8
+london,London,GB,6,21.2,11.9,47,8
+london,London,GB,7,22.7,13.9,46,8
+london,London,GB,8,22.8,14.1,53,8
+london,London,GB,9,20.6,12,50,8
+london,London,GB,10,15.8,9,65,11
+london,London,GB,11,11.2,5.2,67,11
+london,London,GB,12,8.8,3.5,57,11
+madrid,Madrid,ES,1,10.2,0.6,32,6
+madrid,Madrid,ES,2,14.9,2.9,34,5
+madrid,Madrid,ES,3,16.9,5.3,35,5
+madrid,Madrid,ES,4,19,7.7,46,7
+madrid,Madrid,ES,5,25.1,12,48,7
+madrid,Madrid,ES,6,29.5,16.4,20,3
+madrid,Madrid,ES,7,34.9,20.5,9,2
+madrid,Madrid,ES,8,33.5,19.6,10,2
+madrid,Madrid,ES,9,26.2,14.8,24,4
+madrid,Madrid,ES,10,21.8,10.7,64,7
+madrid,Madrid,ES,11,14.3,6.2,52,7
+madrid,Madrid,ES,12,11.5,3.8,42,6
+malaysia,Malaysia,MY,1,30.6,23.5,227,14
+malaysia,Malaysia,MY,2,31.5,23.8,193,12
+malaysia,Malaysia,MY,3,31.6,24,270,15
+malaysia,Malaysia,MY,4,31.4,24.3,302,17
+malaysia,Malaysia,MY,5,31.3,24.6,230,13
+malaysia,Malaysia,MY,6,30.9,24.3,146,10
+malaysia,Malaysia,MY,7,30.9,24,165,11
+malaysia,Malaysia,MY,8,30.7,23.9,174,11
+malaysia,Malaysia,MY,9,30.7,23.8,220,13
+malaysia,Malaysia,MY,10,30.6,23.9,284,16
+malaysia,Malaysia,MY,11,30.1,23.8,356,20
+malaysia,Malaysia,MY,12,29.9,23.7,281,16
+maldives,Maldives,MV,1,28,26.6,87,6
+maldives,Maldives,MV,2,28.2,26.9,38,3
+maldives,Maldives,MV,3,28.6,27.1,49,5
+maldives,Maldives,MV,4,29.3,27.4,127,9
+maldives,Maldives,MV,5,29.2,27.2,238,15
+maldives,Maldives,MV,6,28.9,27.3,146,13
+maldives,Maldives,MV,7,28.7,26.9,198,14
+maldives,Maldives,MV,8,28.6,27,193,13
+maldives,Maldives,MV,9,28.4,26.6,214,15
+maldives,Maldives,MV,10,28.4,26.4,245,15
+maldives,Maldives,MV,11,28.1,26.3,236,14
+maldives,Maldives,MV,12,28.1,26.2,212,12
+mallorca,Mallorca,ES,1,14.4,7.4,43,6
+mallorca,Mallorca,ES,2,16.6,7.9,31,3
+mallorca,Mallorca,ES,3,17.9,9.9,34,8
+mallorca,Mallorca,ES,4,20,11.6,59,9
+mallorca,Mallorca,ES,5,24.3,15.2,53,8
+mallorca,Mallorca,ES,6,29.2,19.5,23,5
+mallorca,Mallorca,ES,7,33,22.8,9,3
+mallorca,Mallorca,ES,8,32.3,22.7,25,5
+mallorca,Mallorca,ES,9,28.2,20.2,78,10
+mallorca,Mallorca,ES,10,24.2,16.5,56,8
+mallorca,Mallorca,ES,11,18.8,12.8,71,10
+mallorca,Mallorca,ES,12,16.7,10.1,27,6
+marrakech,Marrakech,MA,1,19.7,5.4,25,3
+marrakech,Marrakech,MA,2,22.8,7.8,26,4
+marrakech,Marrakech,MA,3,23.7,9.5,35,5
+marrakech,Marrakech,MA,4,25.9,11.8,26,3
+marrakech,Marrakech,MA,5,31.8,15.7,11,2
+marrakech,Marrakech,MA,6,33.2,17.8,3,1
+marrakech,Marrakech,MA,7,39.2,21.6,2,0
+marrakech,Marrakech,MA,8,38.4,21.6,5,1
+marrakech,Marrakech,MA,9,33.4,18.6,15,1
+marrakech,Marrakech,MA,10,30.5,15.3,19,2
+marrakech,Marrakech,MA,11,24.5,10.4,30,4
+marrakech,Marrakech,MA,12,21.3,7.4,24,4
+maui,Maui,US,1,22.1,15.6,118,16
+maui,Maui,US,2,21.3,15.2,201,20
+maui,Maui,US,3,22.2,15.7,123,17
+maui,Maui,US,4,22.8,16.3,131,13
+maui,Maui,US,5,23.9,17.2,78,13
+maui,Maui,US,6,25.4,18.2,50,10
+maui,Maui,US,7,26.7,19.3,42,8
+maui,Maui,US,8,26.6,19.3,63,8
+maui,Maui,US,9,26.6,19.2,51,9
+maui,Maui,US,10,25.7,18.7,83,11
+maui,Maui,US,11,24.6,18,70,12
+maui,Maui,US,12,23.1,16.8,137,14
+mexico,Mexico,MX,1,22.6,7.2,5,1
+mexico,Mexico,MX,2,25.1,8,5,2
+mexico,Mexico,MX,3,27.3,10.3,10,3
+mexico,Mexico,MX,4,27.7,12,17,5
+mexico,Mexico,MX,5,27.4,12.6,46,9
+mexico,Mexico,MX,6,25.4,13.4,109,14
+mexico,Mexico,MX,7,23.2,12.9,133,17
+mexico,Mexico,MX,8,23,12.8,132,17
+mexico,Mexico,MX,9,22.8,12.7,124,14
+mexico,Mexico,MX,10,23.4,11.3,57,9
+mexico,Mexico,MX,11,23.7,9.6,15,3
+mexico,Mexico,MX,12,22.3,7.6,2,1
+mexico-city,Mexico City,MX,1,22.6,7.3,7,3
+mexico-city,Mexico City,MX,2,25.2,8.1,5,1
+mexico-city,Mexico City,MX,3,27.3,10.3,10,3
+mexico-city,Mexico City,MX,4,27.7,12.1,30,7
+mexico-city,Mexico City,MX,5,27.5,12.7,54,11
+mexico-city,Mexico City,MX,6,25.4,13.5,143,19
+mexico-city,Mexico City,MX,7,23.2,13,221,27
+mexico-city,Mexico City,MX,8,23,12.8,233,27
+mexico-city,Mexico City,MX,9,22.8,12.7,217,22
+mexico-city,Mexico City,MX,10,23.4,11.3,79,14
+mexico-city,Mexico City,MX,11,23.8,9.6,15,4
+mexico-city,Mexico City,MX,12,22.4,7.6,7,2
+morocco,Morocco,MA,1,19.7,5.4,25,3
+morocco,Morocco,MA,2,22.8,7.8,26,4
+morocco,Morocco,MA,3,23.7,9.5,35,5
+morocco,Morocco,MA,4,25.9,11.8,26,3
+morocco,Morocco,MA,5,31.8,15.7,11,2
+morocco,Morocco,MA,6,33.2,17.8,3,1
+morocco,Morocco,MA,7,39.2,21.6,2,0
+morocco,Morocco,MA,8,38.4,21.6,5,1
+morocco,Morocco,MA,9,33.4,18.6,15,1
+morocco,Morocco,MA,10,30.5,15.3,19,2
+morocco,Morocco,MA,11,24.5,10.4,30,4
+morocco,Morocco,MA,12,21.3,7.4,24,4
+nepal,Nepal,NP,1,16.6,4.9,15,2
+nepal,Nepal,NP,2,18.1,6.2,24,3
+nepal,Nepal,NP,3,22.2,10.3,38,4
+nepal,Nepal,NP,4,24.8,13.7,63,7
+nepal,Nepal,NP,5,25,15.8,129,12
+nepal,Nepal,NP,6,26.4,18.9,242,17
+nepal,Nepal,NP,7,26.4,20.1,384,23
+nepal,Nepal,NP,8,26.6,20,343,23
+nepal,Nepal,NP,9,25.9,18.8,208,15
+nepal,Nepal,NP,10,23.9,14.7,43,4
+nepal,Nepal,NP,11,21.2,9.7,6,1
+nepal,Nepal,NP,12,17.9,5.8,8,1
+norway,Norway,NO,1,1.1,-3.7,58,10
+norway,Norway,NO,2,2.9,-3,46,8
+norway,Norway,NO,3,5.8,-2.2,41,7
+norway,Norway,NO,4,11.4,1.8,48,8
+norway,Norway,NO,5,15.4,6.2,60,9
+norway,Norway,NO,6,22.1,12.8,80,10
+norway,Norway,NO,7,21.3,13.5,87,11
+norway,Norway,NO,8,20.9,13.3,103,11
+norway,Norway,NO,9,16.7,10,82,9
+norway,Norway,NO,10,10.1,5.3,93,11
+norway,Norway,NO,11,4.7,1.1,85,11
+norway,Norway,NO,12,0.1,-3.9,54,10
+osaka,Osaka,JP,1,9.2,1.2,47,6
+osaka,Osaka,JP,2,10.2,1.7,61,6
+osaka,Osaka,JP,3,14.7,5.1,103,9
+osaka,Osaka,JP,4,18.3,9,102,9
+osaka,Osaka,JP,5,23,14.3,137,10
+osaka,Osaka,JP,6,26.6,19.3,185,11
+osaka,Osaka,JP,7,30.1,23.8,174,10
+osaka,Osaka,JP,8,32.3,25.6,113,7
+osaka,Osaka,JP,9,29.6,22.2,153,10
+osaka,Osaka,JP,10,22.8,14.2,136,8
+osaka,Osaka,JP,11,17.6,8.5,73,6
+osaka,Osaka,JP,12,11.7,3.1,56,6
+paris,Paris,FR,1,7.4,2,48,10
+paris,Paris,FR,2,10.7,3,42,9
+paris,Paris,FR,3,12.7,4.1,45,10
+paris,Paris,FR,4,15.8,5.5,46,9
+paris,Paris,FR,5,19,9.2,69,9
+paris,Paris,FR,6,24.1,14,51,8
+paris,Paris,FR,7,25.6,15,59,7
+paris,Paris,FR,8,25.3,15.4,58,8
+paris,Paris,FR,9,22.8,13,45,8
+paris,Paris,FR,10,17.3,9.9,55,10
+paris,Paris,FR,11,11.4,5.5,54,10
+paris,Paris,FR,12,8.7,3.7,62,11
+patagonia,Patagonia,AR,1,16.5,9.6,36,8
+patagonia,Patagonia,AR,2,17,9.9,44,8
+patagonia,Patagonia,AR,3,14,7.9,51,10
+patagonia,Patagonia,AR,4,10.7,5.4,65,11
+patagonia,Patagonia,AR,5,7.2,2.8,50,10
+patagonia,Patagonia,AR,6,4.2,-0.4,35,8
+patagonia,Patagonia,AR,7,2.5,-2.1,45,9
+patagonia,Patagonia,AR,8,4.1,-1.4,55,12
+patagonia,Patagonia,AR,9,6.9,1,40,8
+patagonia,Patagonia,AR,10,10,3.6,47,9
+patagonia,Patagonia,AR,11,12.9,6.4,44,10
+patagonia,Patagonia,AR,12,15.5,8.9,33,9
+peru,Peru,PE,1,23.9,19.7,11,3
+peru,Peru,PE,2,24.9,20.6,10,3
+peru,Peru,PE,3,24.8,20.4,15,5
+peru,Peru,PE,4,23.3,18.9,1,0
+peru,Peru,PE,5,21,16.6,1,0
+peru,Peru,PE,6,19.5,15.1,0,0
+peru,Peru,PE,7,18.8,14.2,0,0
+peru,Peru,PE,8,18.3,13.9,0,0
+peru,Peru,PE,9,18.5,14.1,2,0
+peru,Peru,PE,10,19,14.7,1,0
+peru,Peru,PE,11,20.3,15.9,1,0
+peru,Peru,PE,12,22.1,18,9,2
+philippines,Philippines,PH,1,29.2,22.7,19,3
+philippines,Philippines,PH,2,30.2,22.7,22,2
+philippines,Philippines,PH,3,32.3,24,22,3
+philippines,Philippines,PH,4,33.1,25.4,23,3
+philippines,Philippines,PH,5,33.2,26.3,159,9
+philippines,Philippines,PH,6,31.5,25.9,253,14
+philippines,Philippines,PH,7,30.5,25.6,432,19
+philippines,Philippines,PH,8,29.6,25.6,493,19
+philippines,Philippines,PH,9,29.8,25.2,396,18
+philippines,Philippines,PH,10,30.1,25,221,14
+philippines,Philippines,PH,11,30.4,24.6,120,10
+philippines,Philippines,PH,12,29.9,23.9,99,8
+phuket,Phuket,TH,1,30.1,24.4,38,9
+phuket,Phuket,TH,2,31.5,24.7,42,8
+phuket,Phuket,TH,3,32.4,25.2,61,11
+phuket,Phuket,TH,4,31.7,25.6,105,19
+phuket,Phuket,TH,5,30.3,25.6,196,26
+phuket,Phuket,TH,6,29.7,25.3,180,24
+phuket,Phuket,TH,7,29.7,25.2,185,21
+phuket,Phuket,TH,8,29.5,25.1,181,22
+phuket,Phuket,TH,9,29.1,24.6,230,24
+phuket,Phuket,TH,10,28.9,24.2,301,29
+phuket,Phuket,TH,11,28.8,24.2,275,27
+phuket,Phuket,TH,12,29,24.2,133,16
+porto,Porto,PT,1,13.3,6.9,151,13
+porto,Porto,PT,2,15.6,8.2,98,10
+porto,Porto,PT,3,16.5,9.1,101,10
+porto,Porto,PT,4,17.4,10.6,96,10
+porto,Porto,PT,5,20.6,13.2,86,9
+porto,Porto,PT,6,21,14.5,34,5
+porto,Porto,PT,7,24.2,16.4,17,3
+porto,Porto,PT,8,23.7,16.3,29,3
+porto,Porto,PT,9,23.5,16.1,68,6
+porto,Porto,PT,10,20.3,13.9,149,11
+porto,Porto,PT,11,16.3,10.9,166,13
+porto,Porto,PT,12,14.4,9.2,153,12
+portugal,Portugal,PT,1,14.4,8.4,104,10
+portugal,Portugal,PT,2,16.7,9.3,78,8
+portugal,Portugal,PT,3,18.2,10.5,69,8
+portugal,Portugal,PT,4,19.4,11.9,72,8
+portugal,Portugal,PT,5,23.8,14.8,58,6
+portugal,Portugal,PT,6,24.6,16,14,2
+portugal,Portugal,PT,7,28.4,18.1,3,1
+portugal,Portugal,PT,8,28.1,18.3,5,1
+portugal,Portugal,PT,9,26,17.7,39,4
+portugal,Portugal,PT,10,23.2,15.5,111,9
+portugal,Portugal,PT,11,18,12.1,134,10
+portugal,Portugal,PT,12,16.1,10.7,109,10
+prague,Prague,CZ,1,4.2,-1.1,20,6
+prague,Prague,CZ,2,6.9,-0.7,18,6
+prague,Prague,CZ,3,10.3,1,29,7
+prague,Prague,CZ,4,14.2,3.5,28,6
+prague,Prague,CZ,5,18.5,8.3,60,9
+prague,Prague,CZ,6,25.4,14.6,73,10
+prague,Prague,CZ,7,25.9,15.4,79,10
+prague,Prague,CZ,8,24.9,15.4,67,9
+prague,Prague,CZ,9,21.1,11.3,39,7
+prague,Prague,CZ,10,16,7.3,34,7
+prague,Prague,CZ,11,8.5,2.5,29,7
+prague,Prague,CZ,12,5.1,-0.2,26,6
+puerto-rico,Puerto Rico,PR,1,28.2,21.6,68,16
+puerto-rico,Puerto Rico,PR,2,28.2,21.9,57,16
+puerto-rico,Puerto Rico,PR,3,28.9,21.8,61,17
+puerto-rico,Puerto Rico,PR,4,29.9,22.4,66,17
+puerto-rico,Puerto Rico,PR,5,31.5,23.7,63,18
+puerto-rico,Puerto Rico,PR,6,31.9,24.6,60,19
+puerto-rico,Puerto Rico,PR,7,31.1,25.2,99,21
+puerto-rico,Puerto Rico,PR,8,31.3,25.2,93,20
+puerto-rico,Puerto Rico,PR,9,31,24.9,172,23
+puerto-rico,Puerto Rico,PR,10,30.5,24.3,111,21
+puerto-rico,Puerto Rico,PR,11,29.5,23.7,82,19
+puerto-rico,Puerto Rico,PR,12,28.4,22.8,57,17
+rome,Rome,IT,1,12,3.4,75,10
+rome,Rome,IT,2,14.9,4.7,46,5
+rome,Rome,IT,3,16.6,6,64,8
+rome,Rome,IT,4,18.9,8.2,70,11
+rome,Rome,IT,5,23.3,13.1,82,13
+rome,Rome,IT,6,29.8,17.8,44,5
+rome,Rome,IT,7,33.5,21.1,18,4
+rome,Rome,IT,8,32.6,21.1,37,5
+rome,Rome,IT,9,28.2,17.5,77,8
+rome,Rome,IT,10,23.1,13.6,76,10
+rome,Rome,IT,11,17.7,10,194,16
+rome,Rome,IT,12,14.2,6.5,131,12
+santorini,Santorini,GR,1,14,10.4,48,10
+santorini,Santorini,GR,2,14.3,10.4,57,8
+santorini,Santorini,GR,3,15,11.2,52,7
+santorini,Santorini,GR,4,18.2,13.4,17,4
+santorini,Santorini,GR,5,22.1,16.6,11,3
+santorini,Santorini,GR,6,26.3,20.8,6,1
+santorini,Santorini,GR,7,28.8,23.3,1,0
+santorini,Santorini,GR,8,28.8,23.7,2,1
+santorini,Santorini,GR,9,26.3,21.9,5,1
+santorini,Santorini,GR,10,22.9,18.8,10,2
+santorini,Santorini,GR,11,19.7,15.9,24,4
+santorini,Santorini,GR,12,16.4,12.8,54,9
+singapore,Singapore,SG,1,29.1,23.5,222,11
+singapore,Singapore,SG,2,30.1,23.6,105,7
+singapore,Singapore,SG,3,30.7,24,151,9
+singapore,Singapore,SG,4,30.2,24.5,164,11
+singapore,Singapore,SG,5,30.1,25.3,164,11
+singapore,Singapore,SG,6,29.2,25,137,10
+singapore,Singapore,SG,7,29.3,24.8,145,10
+singapore,Singapore,SG,8,29.4,24.8,149,11
+singapore,Singapore,SG,9,29.6,24.7,125,10
+singapore,Singapore,SG,10,29.8,24.3,166,12
+singapore,Singapore,SG,11,29.5,23.9,254,15
+singapore,Singapore,SG,12,29.1,23.6,332,16
+slovenia,Slovenia,SI,1,5.3,-3.1,67,7
+slovenia,Slovenia,SI,2,9.6,-1.7,84,7
+slovenia,Slovenia,SI,3,12.2,-0.2,83,8
+slovenia,Slovenia,SI,4,15.2,3.3,97,10
+slovenia,Slovenia,SI,5,18.8,8.6,114,11
+slovenia,Slovenia,SI,6,26.1,14.3,125,10
+slovenia,Slovenia,SI,7,27.9,15.7,122,9
+slovenia,Slovenia,SI,8,26.6,15.5,124,9
+slovenia,Slovenia,SI,9,22.2,11.2,160,9
+slovenia,Slovenia,SI,10,17.5,7.5,150,9
+slovenia,Slovenia,SI,11,10.3,2.8,138,10
+slovenia,Slovenia,SI,12,5.9,-0.7,104,9
+south-africa,South Africa,ZA,1,25.4,14.6,115,15
+south-africa,South Africa,ZA,2,24.5,14.2,118,15
+south-africa,South Africa,ZA,3,24.1,13,43,9
+south-africa,South Africa,ZA,4,21.4,10.2,75,7
+south-africa,South Africa,ZA,5,19.5,7.2,17,3
+south-africa,South Africa,ZA,6,16.9,4.2,10,2
+south-africa,South Africa,ZA,7,17.2,3.7,1,0
+south-africa,South Africa,ZA,8,20.5,6.6,3,1
+south-africa,South Africa,ZA,9,24.8,9.9,9,2
+south-africa,South Africa,ZA,10,26.2,12.5,42,7
+south-africa,South Africa,ZA,11,25.5,13.6,93,13
+south-africa,South Africa,ZA,12,24.6,14.2,140,18
+south-korea,South Korea,KR,1,2.4,-6.6,17,3
+south-korea,South Korea,KR,2,5.3,-4.8,28,3
+south-korea,South Korea,KR,3,12.1,0.4,37,5
+south-korea,South Korea,KR,4,17,5.9,73,7
+south-korea,South Korea,KR,5,22.5,11.7,104,7
+south-korea,South Korea,KR,6,26.2,17.6,130,8
+south-korea,South Korea,KR,7,28.8,21.8,414,13
+south-korea,South Korea,KR,8,28.6,22.1,348,12
+south-korea,South Korea,KR,9,25,17.2,142,7
+south-korea,South Korea,KR,10,18.4,9.1,52,5
+south-korea,South Korea,KR,11,11.4,1.7,51,6
+south-korea,South Korea,KR,12,3,-5.7,23,4
+spain,Spain,ES,1,10.1,0.6,32,6
+spain,Spain,ES,2,14.9,2.9,34,5
+spain,Spain,ES,3,16.9,5.3,35,5
+spain,Spain,ES,4,18.9,7.6,46,7
+spain,Spain,ES,5,25.1,12,48,7
+spain,Spain,ES,6,29.5,16.3,20,3
+spain,Spain,ES,7,34.8,20.4,9,2
+spain,Spain,ES,8,33.5,19.6,10,2
+spain,Spain,ES,9,26.2,14.8,24,4
+spain,Spain,ES,10,21.8,10.7,64,7
+spain,Spain,ES,11,14.2,6.1,52,7
+spain,Spain,ES,12,11.5,3.7,42,6
+sri-lanka,Sri Lanka,LK,1,30.3,22.7,80,5
+sri-lanka,Sri Lanka,LK,2,31,23.2,77,5
+sri-lanka,Sri Lanka,LK,3,31,23.9,103,8
+sri-lanka,Sri Lanka,LK,4,30.8,24.6,249,13
+sri-lanka,Sri Lanka,LK,5,29.7,25.6,314,17
+sri-lanka,Sri Lanka,LK,6,29,25.5,197,15
+sri-lanka,Sri Lanka,LK,7,28.7,25.3,123,10
+sri-lanka,Sri Lanka,LK,8,28.5,25.1,116,10
+sri-lanka,Sri Lanka,LK,9,28.3,24.7,264,15
+sri-lanka,Sri Lanka,LK,10,28.4,24.1,359,19
+sri-lanka,Sri Lanka,LK,11,28.8,23.4,346,16
+sri-lanka,Sri Lanka,LK,12,29.3,23,171,9
+stockholm,Stockholm,SE,1,2,-2.6,37,9
+stockholm,Stockholm,SE,2,2.8,-3.2,29,8
+stockholm,Stockholm,SE,3,5.8,-2.1,27,7
+stockholm,Stockholm,SE,4,10,0,29,6
+stockholm,Stockholm,SE,5,14.8,4.8,34,7
+stockholm,Stockholm,SE,6,22.3,11.7,62,9
+stockholm,Stockholm,SE,7,21.7,12.8,62,9
+stockholm,Stockholm,SE,8,21.3,12.9,66,9
+stockholm,Stockholm,SE,9,16.4,9.3,53,8
+stockholm,Stockholm,SE,10,10.7,5.2,51,9
+stockholm,Stockholm,SE,11,5.6,1.5,48,11
+stockholm,Stockholm,SE,12,1.4,-2.8,48,11
+switzerland,Switzerland,CH,1,4.2,-1.5,63,10
+switzerland,Switzerland,CH,2,8.5,-0.3,60,9
+switzerland,Switzerland,CH,3,10.8,1.1,71,11
+switzerland,Switzerland,CH,4,14.2,3.8,80,11
+switzerland,Switzerland,CH,5,17.5,8,128,12
+switzerland,Switzerland,CH,6,23.9,13.7,128,12
+switzerland,Switzerland,CH,7,24.9,15.3,126,12
+switzerland,Switzerland,CH,8,24.2,15.2,119,12
+switzerland,Switzerland,CH,9,20.7,11.9,87,10
+switzerland,Switzerland,CH,10,15.8,7.9,85,10
+switzerland,Switzerland,CH,11,8.6,2.9,76,10
+switzerland,Switzerland,CH,12,5.3,-0.2,83,12
+sydney,Sydney,AU,1,26.5,19.3,91,8
+sydney,Sydney,AU,2,25.7,18.7,132,9
+sydney,Sydney,AU,3,24.5,17.6,118,10
+sydney,Sydney,AU,4,22.5,13.8,114,8
+sydney,Sydney,AU,5,19.4,10.7,101,8
+sydney,Sydney,AU,6,17.1,8.5,143,9
+sydney,Sydney,AU,7,17.1,8.3,80,7
+sydney,Sydney,AU,8,18.4,8.4,75,6
+sydney,Sydney,AU,9,20.8,10.5,63,6
+sydney,Sydney,AU,10,22.6,12.7,68,8
+sydney,Sydney,AU,11,23.3,14.7,91,9
+sydney,Sydney,AU,12,25.2,16.8,73,8
+thailand,Thailand,TH,1,31.6,22.1,24,2
+thailand,Thailand,TH,2,32.3,23.7,21,2
+thailand,Thailand,TH,3,33.4,25.8,51,3
+thailand,Thailand,TH,4,33.8,26.7,93,5
+thailand,Thailand,TH,5,33.7,26.6,217,12
+thailand,Thailand,TH,6,32.7,26.2,199,13
+thailand,Thailand,TH,7,32,25.7,190,14
+thailand,Thailand,TH,8,31.3,25.4,227,16
+thailand,Thailand,TH,9,30.8,25,336,18
+thailand,Thailand,TH,10,30.6,24.2,289,14
+thailand,Thailand,TH,11,31.3,23.7,45,4
+thailand,Thailand,TH,12,31,21.9,12,1
+tokyo,Tokyo,JP,1,9,-0.1,60,5
+tokyo,Tokyo,JP,2,10.8,0.9,57,5
+tokyo,Tokyo,JP,3,15.3,5.5,116,9
+tokyo,Tokyo,JP,4,18.3,8.9,134,10
+tokyo,Tokyo,JP,5,22.9,14.3,140,10
+tokyo,Tokyo,JP,6,26.2,18.7,168,12
+tokyo,Tokyo,JP,7,29.6,22.7,156,11
+tokyo,Tokyo,JP,8,32,24.4,155,8
+tokyo,Tokyo,JP,9,27.9,20.9,225,11
+tokyo,Tokyo,JP,10,21.5,13.9,235,11
+tokyo,Tokyo,JP,11,17.5,8.3,96,7
+tokyo,Tokyo,JP,12,11.6,2.3,58,5
+tulum,Tulum,MX,1,26.7,21.3,89,15
+tulum,Tulum,MX,2,27.6,22.7,55,14
+tulum,Tulum,MX,3,28.4,23.2,43,10
+tulum,Tulum,MX,4,29.5,24.6,38,9
+tulum,Tulum,MX,5,30.1,25.1,116,18
+tulum,Tulum,MX,6,30,25.7,220,20
+tulum,Tulum,MX,7,31.1,26.2,85,15
+tulum,Tulum,MX,8,31.1,25.9,173,20
+tulum,Tulum,MX,9,30.8,25.3,147,21
+tulum,Tulum,MX,10,30,24.4,205,22
+tulum,Tulum,MX,11,28.5,22.7,138,17
+tulum,Tulum,MX,12,27.2,21.8,82,16
+turkey,Turkey,TR,1,9.7,4.6,100,13
+turkey,Turkey,TR,2,10,4.2,82,10
+turkey,Turkey,TR,3,11.3,5,73,11
+turkey,Turkey,TR,4,15.5,8.2,71,11
+turkey,Turkey,TR,5,21.2,13.2,53,8
+turkey,Turkey,TR,6,25.6,18.2,50,8
+turkey,Turkey,TR,7,29.1,20.9,22,3
+turkey,Turkey,TR,8,29.7,21.9,19,3
+turkey,Turkey,TR,9,25.8,18.6,36,5
+turkey,Turkey,TR,10,21.1,14.8,48,5
+turkey,Turkey,TR,11,17.1,11.2,94,9
+turkey,Turkey,TR,12,12.8,7.7,69,12
+united-kingdom,United Kingdom,GB,1,7.7,1.6,59,12
+united-kingdom,United Kingdom,GB,2,10,3,45,10
+united-kingdom,United Kingdom,GB,3,11.4,3.9,39,9
+united-kingdom,United Kingdom,GB,4,14,4.3,42,9
+united-kingdom,United Kingdom,GB,5,17.2,7.9,46,8
+united-kingdom,United Kingdom,GB,6,21.1,11.8,47,8
+united-kingdom,United Kingdom,GB,7,22.7,13.9,46,8
+united-kingdom,United Kingdom,GB,8,22.8,14,53,8
+united-kingdom,United Kingdom,GB,9,20.6,12,50,8
+united-kingdom,United Kingdom,GB,10,15.7,9,65,11
+united-kingdom,United Kingdom,GB,11,11.2,5.2,67,11
+united-kingdom,United Kingdom,GB,12,8.8,3.5,57,11
+united-states,United States,US,1,5.2,-2.6,73,7
+united-states,United States,US,2,6.2,-2.4,66,7
+united-states,United States,US,3,10.5,0.9,89,9
+united-states,United States,US,4,15.6,6.1,82,8
+united-states,United States,US,5,20.6,11,100,9
+united-states,United States,US,6,26.1,16.8,107,8
+united-states,United States,US,7,29.9,21,110,8
+united-states,United States,US,8,28.4,20.2,83,7
+united-states,United States,US,9,24.6,16.2,100,7
+united-states,United States,US,10,18.8,10.9,93,6
+united-states,United States,US,11,12.1,3.5,74,6
+united-states,United States,US,12,7.4,0,87,8
+vancouver,Vancouver,CA,1,6.5,2,174,18
+vancouver,Vancouver,CA,2,5.3,0.4,91,13
+vancouver,Vancouver,CA,3,8.8,2.5,106,14
+vancouver,Vancouver,CA,4,11.4,4.9,86,12
+vancouver,Vancouver,CA,5,15.9,9.3,59,10
+vancouver,Vancouver,CA,6,18.9,12.4,51,8
+vancouver,Vancouver,CA,7,21.9,14.7,34,5
+vancouver,Vancouver,CA,8,22.3,15.3,36,5
+vancouver,Vancouver,CA,9,18.6,12.8,52,6
+vancouver,Vancouver,CA,10,12.9,8,124,13
+vancouver,Vancouver,CA,11,8.2,3.5,175,17
+vancouver,Vancouver,CA,12,5.6,1.4,172,17
+vienna,Vienna,AT,1,4.4,-1.1,42,9
+vienna,Vienna,AT,2,8.4,0.7,38,7
+vienna,Vienna,AT,3,11.5,2,52,9
+vienna,Vienna,AT,4,14.9,5.2,42,7
+vienna,Vienna,AT,5,18.7,9.8,79,9
+vienna,Vienna,AT,6,25.6,15.7,70,8
+vienna,Vienna,AT,7,27.3,17.1,78,9
+vienna,Vienna,AT,8,26.2,17,69,8
+vienna,Vienna,AT,9,21.9,12.7,64,7
+vienna,Vienna,AT,10,16.5,8.3,47,7
+vienna,Vienna,AT,11,9.5,3.5,46,8
+vienna,Vienna,AT,12,5.4,0.2,47,9
+vietnam,Vietnam,VN,1,21.2,14,52,11
+vietnam,Vietnam,VN,2,23,16.1,77,12
+vietnam,Vietnam,VN,3,26.2,19.4,89,14
+vietnam,Vietnam,VN,4,28.4,21.5,127,15
+vietnam,Vietnam,VN,5,31.8,24.7,193,17
+vietnam,Vietnam,VN,6,33.8,26.9,221,16
+vietnam,Vietnam,VN,7,33.4,26.8,217,18
+vietnam,Vietnam,VN,8,31.8,25.9,423,25
+vietnam,Vietnam,VN,9,30.8,24.8,353,22
+vietnam,Vietnam,VN,10,27.9,21.6,235,15
+vietnam,Vietnam,VN,11,26.3,19.2,61,8
+vietnam,Vietnam,VN,12,21.5,14.1,21,5

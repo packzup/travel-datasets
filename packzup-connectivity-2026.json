@@ -1,0 +1,865 @@
+{
+    "dataset": "Packzup Travel Connectivity Dataset 2026",
+    "license": "CC BY-SA",
+    "source": "Wikipedia (Mains electricity by country / Left- and right-hand traffic)",
+    "attribution": "Packzup (https://packzup.com)",
+    "cite_as": "Packzup (2026). Travel Connectivity Dataset. https://packzup.com/travel-datasets/",
+    "count": 95,
+    "data": [
+        {
+            "slug": "albania",
+            "destination": "Albania",
+            "country_code": "AL",
+            "plug_types": "C,F",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "amsterdam",
+            "destination": "Amsterdam",
+            "country_code": "NL",
+            "plug_types": "C,F",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "argentina",
+            "destination": "Argentina",
+            "country_code": "AR",
+            "plug_types": "C,I",
+            "voltage": "220 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "athens",
+            "destination": "Athens",
+            "country_code": "GR",
+            "plug_types": "C,F",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "austria",
+            "destination": "Austria",
+            "country_code": "AT",
+            "plug_types": "C,F",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "bahamas",
+            "destination": "Bahamas",
+            "country_code": "BS",
+            "plug_types": "A,B",
+            "voltage": "120 V",
+            "frequency": "60 Hz",
+            "driving_side": "left"
+        },
+        {
+            "slug": "bali",
+            "destination": "Bali",
+            "country_code": "ID",
+            "plug_types": "C,F",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "left"
+        },
+        {
+            "slug": "banff",
+            "destination": "Banff",
+            "country_code": "CA",
+            "plug_types": "A,B",
+            "voltage": "120 V",
+            "frequency": "60 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "bangkok",
+            "destination": "Bangkok",
+            "country_code": "TH",
+            "plug_types": "A,B,C,O",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "left"
+        },
+        {
+            "slug": "barcelona",
+            "destination": "Barcelona",
+            "country_code": "ES",
+            "plug_types": "C,F",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "berlin",
+            "destination": "Berlin",
+            "country_code": "DE",
+            "plug_types": "C,F",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "brazil",
+            "destination": "Brazil",
+            "country_code": "BR",
+            "plug_types": "C,N",
+            "voltage": "127 V",
+            "frequency": "60 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "budapest",
+            "destination": "Budapest",
+            "country_code": "HU",
+            "plug_types": "C,F",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "buenos-aires",
+            "destination": "Buenos Aires",
+            "country_code": "AR",
+            "plug_types": "C,I",
+            "voltage": "220 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "cairo",
+            "destination": "Cairo",
+            "country_code": "EG",
+            "plug_types": "C,F",
+            "voltage": "220 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "cambodia",
+            "destination": "Cambodia",
+            "country_code": "KH",
+            "plug_types": "A,C,G",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "cancun",
+            "destination": "Cancun",
+            "country_code": "MX",
+            "plug_types": "A,B",
+            "voltage": "127 V",
+            "frequency": "60 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "cape-town",
+            "destination": "Cape Town",
+            "country_code": "ZA",
+            "plug_types": "C,D,M,N",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "left"
+        },
+        {
+            "slug": "cappadocia",
+            "destination": "Cappadocia",
+            "country_code": "TR",
+            "plug_types": "C,F",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "chiang-mai",
+            "destination": "Chiang Mai",
+            "country_code": "TH",
+            "plug_types": "A,B,C,O",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "left"
+        },
+        {
+            "slug": "chile",
+            "destination": "Chile",
+            "country_code": "CL",
+            "plug_types": "C,L",
+            "voltage": "220 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "colombia",
+            "destination": "Colombia",
+            "country_code": "CO",
+            "plug_types": "A,B",
+            "voltage": "110 V",
+            "frequency": "60 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "copenhagen",
+            "destination": "Copenhagen",
+            "country_code": "DK",
+            "plug_types": "C,K",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "costa-rica",
+            "destination": "Costa Rica",
+            "country_code": "CR",
+            "plug_types": "A,B",
+            "voltage": "120 V",
+            "frequency": "60 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "croatia",
+            "destination": "Croatia",
+            "country_code": "HR",
+            "plug_types": "C,F",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "cuba",
+            "destination": "Cuba",
+            "country_code": "CU",
+            "plug_types": "A,B,C,L",
+            "voltage": "110 V",
+            "frequency": "60 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "cusco",
+            "destination": "Cusco",
+            "country_code": "PE",
+            "plug_types": "A,B,C",
+            "voltage": "220 V",
+            "frequency": "60 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "denmark",
+            "destination": "Denmark",
+            "country_code": "DK",
+            "plug_types": "C,E,F,K",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "dolomites",
+            "destination": "Dolomites",
+            "country_code": "IT",
+            "plug_types": "C,F,L",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "dubai",
+            "destination": "Dubai",
+            "country_code": "AE",
+            "plug_types": "G",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "ecuador",
+            "destination": "Ecuador",
+            "country_code": "EC",
+            "plug_types": "A,B",
+            "voltage": "120 V",
+            "frequency": "60 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "edinburgh",
+            "destination": "Edinburgh",
+            "country_code": "GB",
+            "plug_types": "G",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "left"
+        },
+        {
+            "slug": "egypt",
+            "destination": "Egypt",
+            "country_code": "EG",
+            "plug_types": "C,F",
+            "voltage": "220 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "fiji",
+            "destination": "Fiji",
+            "country_code": "FJ",
+            "plug_types": "I",
+            "voltage": "240 V",
+            "frequency": "50 Hz",
+            "driving_side": "left"
+        },
+        {
+            "slug": "france",
+            "destination": "France",
+            "country_code": "FR",
+            "plug_types": "C,E",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "germany",
+            "destination": "Germany",
+            "country_code": "DE",
+            "plug_types": "C,F",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "greece",
+            "destination": "Greece",
+            "country_code": "GR",
+            "plug_types": "C,F",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "guatemala",
+            "destination": "Guatemala",
+            "country_code": "GT",
+            "plug_types": "A,B",
+            "voltage": "120 V",
+            "frequency": "60 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "hanoi",
+            "destination": "Hanoi",
+            "country_code": "VN",
+            "plug_types": "A,C",
+            "voltage": "220 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "hawaii",
+            "destination": "Hawaii",
+            "country_code": "US",
+            "plug_types": "A,B",
+            "voltage": "120 V",
+            "frequency": "60 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "hong-kong",
+            "destination": "Hong Kong",
+            "country_code": "HK",
+            "plug_types": "G",
+            "voltage": "220 V",
+            "frequency": "50 Hz",
+            "driving_side": "left"
+        },
+        {
+            "slug": "iceland",
+            "destination": "Iceland",
+            "country_code": "IS",
+            "plug_types": "C,F",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "india",
+            "destination": "India",
+            "country_code": "IN",
+            "plug_types": "C,D,M",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "left"
+        },
+        {
+            "slug": "indonesia",
+            "destination": "Indonesia",
+            "country_code": "ID",
+            "plug_types": "C,F",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "left"
+        },
+        {
+            "slug": "istanbul",
+            "destination": "Istanbul",
+            "country_code": "TR",
+            "plug_types": "C,F",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "italy",
+            "destination": "Italy",
+            "country_code": "IT",
+            "plug_types": "C,F,L",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "jamaica",
+            "destination": "Jamaica",
+            "country_code": "JM",
+            "plug_types": "A,B",
+            "voltage": "110 V",
+            "frequency": "50 Hz",
+            "driving_side": "left"
+        },
+        {
+            "slug": "japan",
+            "destination": "Japan",
+            "country_code": "JP",
+            "plug_types": "A,B",
+            "voltage": "100 V",
+            "frequency": "50/60 Hz",
+            "driving_side": "left"
+        },
+        {
+            "slug": "jordan",
+            "destination": "Jordan",
+            "country_code": "JO",
+            "plug_types": "B,C,D,F,G,J",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "korea",
+            "destination": "Korea",
+            "country_code": "KR",
+            "plug_types": "C,F",
+            "voltage": "220 V",
+            "frequency": "60 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "kyoto",
+            "destination": "Kyoto",
+            "country_code": "JP",
+            "plug_types": "A,B",
+            "voltage": "100 V",
+            "frequency": "50/60 Hz",
+            "driving_side": "left"
+        },
+        {
+            "slug": "laos",
+            "destination": "Laos",
+            "country_code": "LA",
+            "plug_types": "A,B,C,E,F",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "lisbon",
+            "destination": "Lisbon",
+            "country_code": "PT",
+            "plug_types": "C,F",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "london",
+            "destination": "London",
+            "country_code": "GB",
+            "plug_types": "G",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "left"
+        },
+        {
+            "slug": "madrid",
+            "destination": "Madrid",
+            "country_code": "ES",
+            "plug_types": "C,F",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "malaysia",
+            "destination": "Malaysia",
+            "country_code": "MY",
+            "plug_types": "G",
+            "voltage": "240 V",
+            "frequency": "50 Hz",
+            "driving_side": "left"
+        },
+        {
+            "slug": "maldives",
+            "destination": "Maldives",
+            "country_code": "MV",
+            "plug_types": "D,G,K",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "left"
+        },
+        {
+            "slug": "mallorca",
+            "destination": "Mallorca",
+            "country_code": "ES",
+            "plug_types": "C,F",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "marrakech",
+            "destination": "Marrakech",
+            "country_code": "MA",
+            "plug_types": "C,E",
+            "voltage": "220 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "maui",
+            "destination": "Maui",
+            "country_code": "US",
+            "plug_types": "A,B",
+            "voltage": "120 V",
+            "frequency": "60 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "mexico",
+            "destination": "Mexico",
+            "country_code": "MX",
+            "plug_types": "A,B",
+            "voltage": "120 V",
+            "frequency": "60 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "mexico-city",
+            "destination": "Mexico City",
+            "country_code": "MX",
+            "plug_types": "A,B",
+            "voltage": "127 V",
+            "frequency": "60 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "morocco",
+            "destination": "Morocco",
+            "country_code": "MA",
+            "plug_types": "C,E",
+            "voltage": "220 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "nepal",
+            "destination": "Nepal",
+            "country_code": "NP",
+            "plug_types": "C,D,M",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "left"
+        },
+        {
+            "slug": "norway",
+            "destination": "Norway",
+            "country_code": "NO",
+            "plug_types": "C,F",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "osaka",
+            "destination": "Osaka",
+            "country_code": "JP",
+            "plug_types": "A,B",
+            "voltage": "100 V",
+            "frequency": "60 Hz",
+            "driving_side": "left"
+        },
+        {
+            "slug": "paris",
+            "destination": "Paris",
+            "country_code": "FR",
+            "plug_types": "C,E",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "patagonia",
+            "destination": "Patagonia",
+            "country_code": "AR",
+            "plug_types": "C,I",
+            "voltage": "220 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "peru",
+            "destination": "Peru",
+            "country_code": "PE",
+            "plug_types": "A,B,C",
+            "voltage": "220 V",
+            "frequency": "60 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "philippines",
+            "destination": "Philippines",
+            "country_code": "PH",
+            "plug_types": "A,B,C",
+            "voltage": "220 V",
+            "frequency": "60 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "phuket",
+            "destination": "Phuket",
+            "country_code": "TH",
+            "plug_types": "A,B,C,O",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "left"
+        },
+        {
+            "slug": "porto",
+            "destination": "Porto",
+            "country_code": "PT",
+            "plug_types": "C,F",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "portugal",
+            "destination": "Portugal",
+            "country_code": "PT",
+            "plug_types": "C,E,F",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "prague",
+            "destination": "Prague",
+            "country_code": "CZ",
+            "plug_types": "C,E",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "puerto-rico",
+            "destination": "Puerto Rico",
+            "country_code": "PR",
+            "plug_types": "A,B",
+            "voltage": "120 V",
+            "frequency": "60 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "rome",
+            "destination": "Rome",
+            "country_code": "IT",
+            "plug_types": "C,F,L",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "santorini",
+            "destination": "Santorini",
+            "country_code": "GR",
+            "plug_types": "C,F",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "singapore",
+            "destination": "Singapore",
+            "country_code": "SG",
+            "plug_types": "G",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "left"
+        },
+        {
+            "slug": "slovenia",
+            "destination": "Slovenia",
+            "country_code": "SI",
+            "plug_types": "C,F",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "south-africa",
+            "destination": "South Africa",
+            "country_code": "ZA",
+            "plug_types": "C,D,M,N",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "left"
+        },
+        {
+            "slug": "south-korea",
+            "destination": "South Korea",
+            "country_code": "KR",
+            "plug_types": "C,F",
+            "voltage": "220 V",
+            "frequency": "60 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "spain",
+            "destination": "Spain",
+            "country_code": "ES",
+            "plug_types": "C,F",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "sri-lanka",
+            "destination": "Sri Lanka",
+            "country_code": "LK",
+            "plug_types": "D,G,M",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "left"
+        },
+        {
+            "slug": "stockholm",
+            "destination": "Stockholm",
+            "country_code": "SE",
+            "plug_types": "C,F",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "switzerland",
+            "destination": "Switzerland",
+            "country_code": "CH",
+            "plug_types": "C,J",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "sydney",
+            "destination": "Sydney",
+            "country_code": "AU",
+            "plug_types": "I",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "left"
+        },
+        {
+            "slug": "thailand",
+            "destination": "Thailand",
+            "country_code": "TH",
+            "plug_types": "A,B,C,O",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "left"
+        },
+        {
+            "slug": "tokyo",
+            "destination": "Tokyo",
+            "country_code": "JP",
+            "plug_types": "A,B",
+            "voltage": "100 V",
+            "frequency": "50/60 Hz",
+            "driving_side": "left"
+        },
+        {
+            "slug": "tulum",
+            "destination": "Tulum",
+            "country_code": "MX",
+            "plug_types": "A,B",
+            "voltage": "127 V",
+            "frequency": "60 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "turkey",
+            "destination": "Turkey",
+            "country_code": "TR",
+            "plug_types": "C,F",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "united-kingdom",
+            "destination": "United Kingdom",
+            "country_code": "GB",
+            "plug_types": "D,G,M",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "left"
+        },
+        {
+            "slug": "united-states",
+            "destination": "United States",
+            "country_code": "US",
+            "plug_types": "A,B",
+            "voltage": "120 V",
+            "frequency": "60 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "vancouver",
+            "destination": "Vancouver",
+            "country_code": "CA",
+            "plug_types": "A,B",
+            "voltage": "120 V",
+            "frequency": "60 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "vienna",
+            "destination": "Vienna",
+            "country_code": "AT",
+            "plug_types": "C,F",
+            "voltage": "230 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        },
+        {
+            "slug": "vietnam",
+            "destination": "Vietnam",
+            "country_code": "VN",
+            "plug_types": "A,B,C,F",
+            "voltage": "220 V",
+            "frequency": "50 Hz",
+            "driving_side": "right"
+        }
+    ]
+}

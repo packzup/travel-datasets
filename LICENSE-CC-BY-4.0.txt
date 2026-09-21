@@ -1,0 +1,23 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+APPLIES TO THESE FILES ONLY:
+  packzup-climate-2026.csv
+  packzup-climate-2026.json
+  packzup-carry-on-limits-2026-09.csv
+
+It does NOT apply to packzup-connectivity-2026.* , which is CC BY-SA 4.0 because it is
+derived from Wikipedia. See LICENSE-CC-BY-SA-4.0.txt and the README.
+
+You are free to share and adapt this material for any purpose, including commercially,
+provided you give appropriate credit, link to the licence, and indicate if changes were made.
+
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+Summary:         https://creativecommons.org/licenses/by/4.0/
+
+REQUIRED ATTRIBUTION
+  Climate data: ERA5 reanalysis via Open-Meteo (CC BY 4.0). Compiled by Packzup,
+  https://packzup.com/travel-datasets/
+
+  Carry-on data: Compiled by Packzup from airlines' published cabin-baggage policies,
+  https://packzup.com/carry-on-size-checker/ . Note that only 21 of its 106 rows are
+  primary-verified; 85 are carried forward and not individually source-linked.

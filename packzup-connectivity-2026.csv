@@ -1,0 +1,96 @@
+slug,destination,country_code,plug_types,voltage,frequency,driving_side
+albania,Albania,AL,"C,F",230 V,50 Hz,right
+amsterdam,Amsterdam,NL,"C,F",230 V,50 Hz,right
+argentina,Argentina,AR,"C,I",220 V,50 Hz,right
+athens,Athens,GR,"C,F",230 V,50 Hz,right
+austria,Austria,AT,"C,F",230 V,50 Hz,right
+bahamas,Bahamas,BS,"A,B",120 V,60 Hz,left
+bali,Bali,ID,"C,F",230 V,50 Hz,left
+banff,Banff,CA,"A,B",120 V,60 Hz,right
+bangkok,Bangkok,TH,"A,B,C,O",230 V,50 Hz,left
+barcelona,Barcelona,ES,"C,F",230 V,50 Hz,right
+berlin,Berlin,DE,"C,F",230 V,50 Hz,right
+brazil,Brazil,BR,"C,N",127 V,60 Hz,right
+budapest,Budapest,HU,"C,F",230 V,50 Hz,right
+buenos-aires,Buenos Aires,AR,"C,I",220 V,50 Hz,right
+cairo,Cairo,EG,"C,F",220 V,50 Hz,right
+cambodia,Cambodia,KH,"A,C,G",230 V,50 Hz,right
+cancun,Cancun,MX,"A,B",127 V,60 Hz,right
+cape-town,Cape Town,ZA,"C,D,M,N",230 V,50 Hz,left
+cappadocia,Cappadocia,TR,"C,F",230 V,50 Hz,right
+chiang-mai,Chiang Mai,TH,"A,B,C,O",230 V,50 Hz,left
+chile,Chile,CL,"C,L",220 V,50 Hz,right
+colombia,Colombia,CO,"A,B",110 V,60 Hz,right
+copenhagen,Copenhagen,DK,"C,K",230 V,50 Hz,right
+costa-rica,Costa Rica,CR,"A,B",120 V,60 Hz,right
+croatia,Croatia,HR,"C,F",230 V,50 Hz,right
+cuba,Cuba,CU,"A,B,C,L",110 V,60 Hz,right
+cusco,Cusco,PE,"A,B,C",220 V,60 Hz,right
+denmark,Denmark,DK,"C,E,F,K",230 V,50 Hz,right
+dolomites,Dolomites,IT,"C,F,L",230 V,50 Hz,right
+dubai,Dubai,AE,G,230 V,50 Hz,right
+ecuador,Ecuador,EC,"A,B",120 V,60 Hz,right
+edinburgh,Edinburgh,GB,G,230 V,50 Hz,left
+egypt,Egypt,EG,"C,F",220 V,50 Hz,right
+fiji,Fiji,FJ,I,240 V,50 Hz,left
+france,France,FR,"C,E",230 V,50 Hz,right
+germany,Germany,DE,"C,F",230 V,50 Hz,right
+greece,Greece,GR,"C,F",230 V,50 Hz,right
+guatemala,Guatemala,GT,"A,B",120 V,60 Hz,right
+hanoi,Hanoi,VN,"A,C",220 V,50 Hz,right
+hawaii,Hawaii,US,"A,B",120 V,60 Hz,right
+hong-kong,Hong Kong,HK,G,220 V,50 Hz,left
+iceland,Iceland,IS,"C,F",230 V,50 Hz,right
+india,India,IN,"C,D,M",230 V,50 Hz,left
+indonesia,Indonesia,ID,"C,F",230 V,50 Hz,left
+istanbul,Istanbul,TR,"C,F",230 V,50 Hz,right
+italy,Italy,IT,"C,F,L",230 V,50 Hz,right
+jamaica,Jamaica,JM,"A,B",110 V,50 Hz,left
+japan,Japan,JP,"A,B",100 V,50/60 Hz,left
+jordan,Jordan,JO,"B,C,D,F,G,J",230 V,50 Hz,right
+korea,Korea,KR,"C,F",220 V,60 Hz,right
+kyoto,Kyoto,JP,"A,B",100 V,50/60 Hz,left
+laos,Laos,LA,"A,B,C,E,F",230 V,50 Hz,right
+lisbon,Lisbon,PT,"C,F",230 V,50 Hz,right
+london,London,GB,G,230 V,50 Hz,left
+madrid,Madrid,ES,"C,F",230 V,50 Hz,right
+malaysia,Malaysia,MY,G,240 V,50 Hz,left
+maldives,Maldives,MV,"D,G,K",230 V,50 Hz,left
+mallorca,Mallorca,ES,"C,F",230 V,50 Hz,right
+marrakech,Marrakech,MA,"C,E",220 V,50 Hz,right
+maui,Maui,US,"A,B",120 V,60 Hz,right
+mexico,Mexico,MX,"A,B",120 V,60 Hz,right
+mexico-city,Mexico City,MX,"A,B",127 V,60 Hz,right
+morocco,Morocco,MA,"C,E",220 V,50 Hz,right
+nepal,Nepal,NP,"C,D,M",230 V,50 Hz,left
+norway,Norway,NO,"C,F",230 V,50 Hz,right
+osaka,Osaka,JP,"A,B",100 V,60 Hz,left
+paris,Paris,FR,"C,E",230 V,50 Hz,right
+patagonia,Patagonia,AR,"C,I",220 V,50 Hz,right
+peru,Peru,PE,"A,B,C",220 V,60 Hz,right
+philippines,Philippines,PH,"A,B,C",220 V,60 Hz,right
+phuket,Phuket,TH,"A,B,C,O",230 V,50 Hz,left
+porto,Porto,PT,"C,F",230 V,50 Hz,right
+portugal,Portugal,PT,"C,E,F",230 V,50 Hz,right
+prague,Prague,CZ,"C,E",230 V,50 Hz,right
+puerto-rico,Puerto Rico,PR,"A,B",120 V,60 Hz,right
+rome,Rome,IT,"C,F,L",230 V,50 Hz,right
+santorini,Santorini,GR,"C,F",230 V,50 Hz,right
+singapore,Singapore,SG,G,230 V,50 Hz,left
+slovenia,Slovenia,SI,"C,F",230 V,50 Hz,right
+south-africa,South Africa,ZA,"C,D,M,N",230 V,50 Hz,left
+south-korea,South Korea,KR,"C,F",220 V,60 Hz,right
+spain,Spain,ES,"C,F",230 V,50 Hz,right
+sri-lanka,Sri Lanka,LK,"D,G,M",230 V,50 Hz,left
+stockholm,Stockholm,SE,"C,F",230 V,50 Hz,right
+switzerland,Switzerland,CH,"C,J",230 V,50 Hz,right
+sydney,Sydney,AU,I,230 V,50 Hz,left
+thailand,Thailand,TH,"A,B,C,O",230 V,50 Hz,left
+tokyo,Tokyo,JP,"A,B",100 V,50/60 Hz,left
+tulum,Tulum,MX,"A,B",127 V,60 Hz,right
+turkey,Turkey,TR,"C,F",230 V,50 Hz,right
+united-kingdom,United Kingdom,GB,"D,G,M",230 V,50 Hz,left
+united-states,United States,US,"A,B",120 V,60 Hz,right
+vancouver,Vancouver,CA,"A,B",120 V,60 Hz,right
+vienna,Vienna,AT,"C,F",230 V,50 Hz,right
+vietnam,Vietnam,VN,"A,B,C,F",220 V,50 Hz,right

@@ -1,0 +1,22 @@
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+APPLIES TO THESE FILES ONLY:
+  packzup-connectivity-2026.csv
+  packzup-connectivity-2026.json
+
+WHY SHARE-ALIKE: this data is derived from Wikipedia's "Mains electricity by country", which is
+published under CC BY-SA. That obligation carries forward and cannot be dropped. Do not
+relicense these files as CC BY 4.0, and do not merge them into a CC BY 4.0 collection.
+
+You are free to share and adapt this material for any purpose, including commercially, provided
+you give appropriate credit, link to the licence, indicate if changes were made, AND distribute
+any derivative work under this same licence.
+
+Full legal text: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+Summary:         https://creativecommons.org/licenses/by-sa/4.0/
+
+REQUIRED ATTRIBUTION
+  Source: Wikipedia, "Mains electricity by country", CC BY-SA 4.0,
+  https://en.wikipedia.org/wiki/Mains_electricity_by_country
+  Compiled by Packzup, https://packzup.com/travel-datasets/
+  Derivative works must be shared under CC BY-SA 4.0.
