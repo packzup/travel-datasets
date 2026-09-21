@@ -15,7 +15,7 @@ Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
 Summary:         https://creativecommons.org/licenses/by/4.0/
 
 REQUIRED ATTRIBUTION
-  Climate data: ERA5 reanalysis via Open-Meteo (CC BY 4.0). Compiled by Packzup,
+  Climate data: WMO 1991-2020 climate normals where available, otherwise ERA5 reanalysis via Open-Meteo (CC BY 4.0). Compiled by Packzup,
   https://packzup.com/travel-datasets/
 
   Carry-on data: Compiled by Packzup from airlines' published cabin-baggage policies,
